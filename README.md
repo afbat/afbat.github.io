@@ -1,1 +1,1 @@
-# afbat.github.io
+Personal Website built from hugo-academic
