@@ -5,12 +5,15 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Ava Francesca Battocchio"
 title_separator          : "-"
 name                     : &name "Ava Francesca Battocchio"
-description              : &description "personal description"
+description              : &description "Professional web page for PhD Student"
 url                      : https://afbat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "afbat/afbat.github.io"
@@ -87,7 +90,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JuKCgpcAAAAJ&hl=en"
-  email            :
+  email            : "battocch@msu.edu"
   researchgate     :  "https://www.researchgate.net/profile/Ava-Francesca-Battocchio"
   uri              :
   bitbucket        :
@@ -115,6 +118,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  osf              : "https://osf.io/4nh6g"
 
 
 # Reading Files
