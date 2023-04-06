@@ -27,6 +27,6 @@ Previous creative and activist work includes collaborating with and coordinating
 
 When I’m is not studying, my interests include volunteering as a public history and industrial heritage tour guide(think “grains and trains”), social activism, rail-fanning, biking, alternative print media, sewing, and photography. I also spend a lot of time with 2 sassy geriatric cats and the botanic garden in my house.
 
-I hope to [use my experience to open a discussion](https://drive.google.com/file/d/1Ka0zVE1hCKvHONoYjh5wSmtfcqIdh2cz/view?usp=sharing) about the value of both formal and informal education along with shedding light on why it can be difficult for people without a traditional educational journey to find their way to graduation.
+
 
 
