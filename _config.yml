@@ -65,12 +65,12 @@ author:
   bio              : "Information & Media PhD Student"
   location         : "Michigaan State University"
   links:
-    - label: "Email"
-      icon: "fab fa-fw fa-email"
-      url: "battocch@msu.edu"
-    - label: Website
-      icon "fas fa-university"
-      url: "https://comartsci.msu.edu/our-people/ava-francesca-battocchio"
+  #  - label: "Email"
+  #    icon: "fab fa-fw fa-email"
+  #    url: "battocch@msu.edu"
+  #  - label: Website
+  #    icon "fas fa-university"
+  #    url: "https://comartsci.msu.edu/our-people/ava-francesca-battocchio"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_afbat"
@@ -90,7 +90,7 @@ author:
       icon: "ai ai-osf"
       url: "https://osf.io/4nh6g/"
 
-      
+
 footer:
   links:
     - label: "Twitter"
