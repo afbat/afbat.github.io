@@ -75,16 +75,16 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/afbat"
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=JuKCgpcAAAAJ&hl=en"
-    - label: "Research Gate"
-      icon: "ai ai-researchgate"
-      url: "https://www.researchgate.net/profile/Ava-Francesca-Battocchio"
-    - label: "0000-0003-4950-5782"
-      icon: "ai ai-orcid"
-      url: "https://orcid.org/0000-0003-4950-5782"
-    - label: "OSF"
+  #  - label: "Google Scholar"
+  #    icon: "ai ai-google-scholar"
+  #    url: "https://scholar.google.com/citations?user=JuKCgpcAAAAJ&hl=en"
+  #  - label: "Research Gate"
+  #    icon: "ai ai-researchgate"
+  #    url: "https://www.researchgate.net/profile/Ava-Francesca-Battocchio"
+  #  - label: "0000-0003-4950-5782"
+  #    icon: "ai ai-orcid"
+  #    url: "https://orcid.org/0000-0003-4950-5782"
+  #  - label: "OSF"
       icon: "ai ai-osf"
       url: "https://osf.io/4nh6g/"
 
@@ -102,10 +102,10 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: "about"
+      path: ""
       type: pages
     values:
-      layout: single
+      layout: splash
       author_profile: true
       read_time: true
       comments: true
