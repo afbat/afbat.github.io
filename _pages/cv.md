@@ -26,9 +26,9 @@ Publications
 Work experience
 ======
 * 2022-2023: Research Assistant in Department of Media and Information,  Michigan State University 
-  * <b>PI</b>: Dr. Jean Hardy}
-  * <b>Funding</b>: Merit Network}
-  * <b>Project</b>: “Human-Centered Infrastructure Design”}
+  * <b>PI</b>: Dr. Jean Hardy
+  * <b>Funding</b>: Merit Network
+  * <b>Project</b>: “Human-Centered Infrastructure Design”
 
 * Summer 2021: Research Assistant in Civic Infrastructure Lab, Department of Advertising + Public Relations, Michigan State University
   * <b>PI</b>: Dr. Kjerstin Thorson
