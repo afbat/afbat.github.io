@@ -3,19 +3,19 @@ permalink: /cv/
 title: "CV"
 ---
 
-## Education
+### Education
 * Ph.D in Information and Media, Michigan State University, 2025 (expected)
 * M.S. in Global Strategic Communication (Dual Degree), Loyola University Chicago, 2018-2020
 * B.A. in Advertising (Dual-Degree), Loyola University Chicago, 2017-2019
 * A.S. in Criminal Justice, Housatonic Community College, 2015
 
-## Publications
-Yang, J., Teran, C., Battocchio, A. F., Bertellotti, E., & Wrzesinski, S. (2021). Building Brand Authenticity on Social Media: The Impact of Instagram Ad Model Genuineness and Trustworthiness on Perceived Brand Authenticity and Consumer Responses. Journal of Interactive Advertising, 21(1), 34–48. https://doi.org/10.1080/15252019.2020.1860168
+### Publications
+Yang, J., Teran, C., Battocchio, A. F., Bertellotti, E., & Wrzesinski, S. (2021). Building Brand Authenticity on Social Media: The Impact of Instagram Ad Model Genuineness and Trustworthiness on Perceived Brand Authenticity and Consumer Responses. Journal of Interactive Advertising, 21(1), 34–48. [https://doi.org/10.1080/15252019.2020.1860168](https://doi.org/10.1080/15252019.2020.1860168)
 
-Yang, J., & Battocchio, A. F. (2020). Effects of transparent brand communication on perceived brand authenticity and consumer responses. Journal of Product & Brand Management, 30(8), 1176–1193. https://doi.org/10.1108/JPBM-03-2020-2803 
+Yang, J., & Battocchio, A. F. (2020). Effects of transparent brand communication on perceived brand authenticity and consumer responses. Journal of Product & Brand Management, 30(8), 1176–1193. [https://doi.org/10.1108/JPBM-03-2020-2803](https://doi.org/10.1108/JPBM-03-2020-2803)
 
   
-## Work experience
+### Work experience
 * 2022-2023: Research Assistant in Department of Media and Information,  Michigan State University 
   * <b>PI</b>: Dr. Jean Hardy
   * <b>Funding</b>: Merit Network
@@ -42,7 +42,7 @@ Yang, J., & Battocchio, A. F. (2020). Effects of transparent brand communication
   * <b>Funding</b>: National Endowment for the Humanities and Library of Congress Lavine and Ken Burns Prize for Film
   * <b>Project</b>: “Flannery: The Storied Life of the Writer from Georgia”
   
-## Skills
+### Skills
  * Analysis and Statistical Software, and Programming Languages 
   * R (intermediate)
   * Python (beginner)
