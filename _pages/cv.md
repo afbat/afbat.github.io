@@ -16,6 +16,13 @@ Education
 * B.A. in Advertising (Dual-Degree), Loyola University Chicago, 2017-2019
 * A.S. in Criminal Justice, Housatonic Community College, 2015
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+  
 Work experience
 ======
 * 2022-2023: Research Assistant in Department of Media and Information,  Michigan State University 
@@ -44,13 +51,20 @@ Work experience
   * <b>Funding</b>: National Endowment for the Humanities and Library of Congress Lavine and Ken Burns Prize for Film
   * <b>Project</b>: “Flannery: The Storied Life of the Writer from Georgia”
   
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+
 Skills
 ======
  * Analysis and Statistical Software, and Programming Languages 
   * R (intermediate)
   * Python (beginner)
-  * \textrm{\LaTeX}
-  * \textrm{\TeX}
+  * LaTeX
+  * TeX
   * NVIVO
   * SPSS
   * Unix/Linux
@@ -67,19 +81,6 @@ Skills
 * Langauge
   * English (Native)
   * German (Heritage)
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 
   
 
