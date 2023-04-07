@@ -2,7 +2,6 @@
 permalink: /about/
 title: "About"
 ---
-# About
 
 Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comartsci.msu.edu/our-people/ava-francesca-battocchio) PhD Student in the [Department of Advertising and Public Relations](https://comartsci.msu.edu/departments/advertising-public-relations), under the advisement of Dr. [Kjerstin Thorson](https://comartsci.msu.edu/our-people/kjerstin-thorson)
 

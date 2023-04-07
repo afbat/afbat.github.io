@@ -2,7 +2,6 @@
 permalink: /cv/
 title: "CV"
 ---
-# CV
 
 Education
 ======
