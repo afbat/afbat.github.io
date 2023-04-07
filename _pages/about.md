@@ -1,11 +1,6 @@
 ---
-permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /about/
+title: "About"
 ---
 # About
 
@@ -15,9 +10,7 @@ Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comart
 
 <b>Keywords:</b> Media ecology, civic engagement, information access, news and political content exposure, civic infrastructure, rural and post‑industrial community structures, social computing, and mixed methods (ethnographic and computational).
 
-Ava Francesca’s ongoing research explores the entanglement of civic infrastructure, information accessibility, and media ecology. Their research centers on how rural and post-industrial community structures and collective identity shape hybrid civic storytelling networks, or how people come to share information that impacts civic life. Ava Francesca is particularly interested in former mining and manufacturing communities in the Great Lakes region that simultaneously grapple with economic changes and shifting media landscapes in the form of declining local news and inequities in digital access.
-
-Ava Francesca is particularly fascinated with tackling these questions through combining ethnography (traditional and digital) and computational textual analysis, primarily using R.
+My work centers on how rural and post-industrial community structures and collective identity shape hybrid civic storytelling networks, or how people come to share information that impacts civic life. I'm particularly interested in former mining and manufacturing communities in the Great Lakes region that simultaneously grapple with economic changes and shifting media landscapes in the form of declining local news and inequities in digital access. I love mixing ethnographic and computational methods to tackle these questions. I heavily proselytize R, LaTeX, Zotero, and some combination of the three.
 
 # Professional Affiliations and Service
 

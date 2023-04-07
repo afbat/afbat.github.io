@@ -1,13 +1,8 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: "CV"
 ---
-
-{% include base_path %}
+# CV
 
 Education
 ======
@@ -18,10 +13,11 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+ 
+Yang, J., Teran, C., Battocchio, A. F., Bertellotti, E., & Wrzesinski, S. (2021). Building Brand Authenticity on Social Media: The Impact of Instagram Ad Model Genuineness and Trustworthiness on Perceived Brand Authenticity and Consumer Responses. Journal of Interactive Advertising, 21(1), 34–48. https://doi.org/10.1080/15252019.2020.1860168
+
+Yang, J., & Battocchio, A. F. (2020). Effects of transparent brand communication on perceived brand authenticity and consumer responses. Journal of Product & Brand Management, 30(8), 1176–1193. https://doi.org/10.1108/JPBM-03-2020-2803 
+
   
 Work experience
 ======
