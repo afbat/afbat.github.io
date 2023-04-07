@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : &name "Ava Francesca Battocchio"
-  avatar : "/assets/images/bio.jpg"
+  avatar : "/assets/images/bio-photo.jpg"
   bio              : "Information & Media PhD Student"
   location         : "Michigaan State University"
   links:

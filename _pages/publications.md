@@ -1,8 +1,7 @@
 ---
 permalink: /publications/
-title: "publications"
+title: "Publications"
 ---
-# Publications
 
 Building Brand Authenticity on Social Media: The Impact of Instagram Ad Model Genuineness and Trustworthiness on Perceived Brand Authenticity and Consumer Responses
 Published in Journal of Interactive Advertising, 2021
