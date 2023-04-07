@@ -51,13 +51,6 @@ Work experience
   * <b>Funding</b>: National Endowment for the Humanities and Library of Congress Lavine and Ken Burns Prize for Film
   * <b>Project</b>: “Flannery: The Storied Life of the Writer from Georgia”
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-
 Skills
 ======
  * Analysis and Statistical Software, and Programming Languages 
@@ -77,10 +70,6 @@ Skills
   * CrowdTangle
   * Google Workspace
   * Microsoft 365
-
-* Langauge
-  * English (Native)
-  * German (Heritage)
 
   
 
