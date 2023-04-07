@@ -7,9 +7,7 @@ Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comart
 
 # Research Interests
 
-<b>Keywords:</b> Media ecology, civic engagement, information access, news and political content exposure, civic infrastructure, rural and post‑industrial community structures, social computing, and mixed methods (ethnographic and computational).
-
-My work centers on how rural and post-industrial community structures and collective identity shape hybrid civic storytelling networks, or how people come to share information that impacts civic life. I'm particularly interested in former mining and manufacturing communities in the Great Lakes region that simultaneously grapple with economic changes and shifting media landscapes in the form of declining local news and inequities in digital access. I love mixing ethnographic and computational methods to tackle these questions. I heavily proselytize R, LaTeX, Zotero, and some combination of the three.
+My work centers on how rural and post-industrial community structures and collective identity shape hybrid civic storytelling networks, or how people come to share information that impacts civic life. I'm particularly interested in communities in the northern Great Lakes region that simultaneously grapple with economic changes and shifting media landscapes in the form of declining local news and inequities in digital access. I love mixing ethnographic and computational methods to tackle these questions. Also, if given the change, I will heavily proselytize R, LaTeX, Zotero, and some combination of the three.
 
 # Professional Affiliations and Service
 
