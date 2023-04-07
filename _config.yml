@@ -63,7 +63,7 @@ author:
   name   : &name "Ava Francesca Battocchio"
   avatar : "/assets/images/bio-photo.jpg"
   bio              : "Information & Media PhD Student"
-  location         : "Michigaan State University"
+  location         : "Michigan State University"
   links:
   #  - label: "Email"
   #    icon: "fab fa-fw fa-email"
