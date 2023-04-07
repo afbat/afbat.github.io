@@ -11,30 +11,62 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Information and Media, Michigan State University, 2025 (expected)
+* M.S. in Global Strategic Communication (Dual Degree), Loyola University Chicago, 2018-2020
+* B.A. in Advertising (Dual-Degree), Loyola University Chicago, 2017-2019
+* A.S. in Criminal Justice, Housatonic Community College, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-2023: Research Assistant in Department of Media and Information,  Michigan State University 
+  * <b>PI</b>: Dr. Jean Hardy}
+  * <b>Funding</b>: Merit Network}
+  * <b>Project</b>: “Human-Centered Infrastructure Design”}
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2021: Research Assistant in Civic Infrastructure Lab, Department of Advertising + Public Relations, Michigan State University
+  * <b>PI</b>: Dr. Kjerstin Thorson
+
+* 2021 - present: Graduate Student Lab Manager in Civic Infratstructure Lab, Michigan State University
+  * Lab is comprised of 15 members from four institutions located in the U.S. and China
+  * Lab members include undergrad Research Assistants, MA and PhD Research Assistants, Post-Docs, Assistant, Associate, and Full Professors
+  * Project management, scheduling and programming, mentorship
+
+* 2020-2021: Research Assistant in Department of Advertising + Public Relations, Michigan State University
+  * <b>PI</b>: Dr. Kjerstin Thorson
+  * <b>Funding</b>: Social Science Research Council's Social Data Research Fellowship
+  * <b>Project</b>: “Infodrought and Infodemic: Conceptualizing Information Vulnerabilities on Social Media”
+
+* 2018-2020: Research Assistant in Social and Interactive Media Lab (SIMLab) at Loyola University Chicago
+  * <b>PI</b>: Dr. Florence Chee
+
+* 2018-2019: Research Assistant in School of Communication, Loyola University Chicago
+  * <b>PI</b>: Dr. Elizabeth Coffman
+  * <b>Funding</b>: National Endowment for the Humanities and Library of Congress Lavine and Ken Burns Prize for Film
+  * <b>Project</b>: “Flannery: The Storied Life of the Writer from Georgia”
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+ * Analysis and Statistical Software, and Programming Languages 
+  * R (intermediate)
+  * Python (beginner)
+  * \textrm{\LaTeX}
+  * \textrm{\TeX}
+  * NVIVO
+  * SPSS
+  * Unix/Linux
+
+* Certification
+  * Empirical Implications of Theoretical Models(EITM) for Machine Learning: Applications in Social Science Research
+
+* Software
+  * Adobe Suite (Illustrator, InDesign, Lightroom, Photoshop)
+  * CrowdTangle
+  * Google Workspace
+  * Microsoft 365
+
+* Langauge
+  * English (Native)
+  * German (Heritage)
 
 Publications
 ======
@@ -48,12 +80,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
