@@ -13,6 +13,12 @@ Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comart
 
 # Research Interests
 
+<b>Keywords:</b> Media ecology, civic engagement, information access, news and political content exposure, civic infrastructure, rural and post‑industrial community structures, social computing, and mixed methods (ethnographic and computational).
+
+Ava Francesca’s ongoing research explores the entanglement of civic infrastructure, information accessibility, and media ecology. Their research centers on how rural and post-industrial community structures and collective identity shape hybrid civic storytelling networks, or how people come to share information that impacts civic life. Ava Francesca is particularly interested in former mining and manufacturing communities in the Great Lakes region that simultaneously grapple with economic changes and shifting media landscapes in the form of declining local news and inequities in digital access.
+
+Ava Francesca is particularly fascinated with tackling these questions through combining ethnography (traditional and digital) and computational textual analysis, primarily using R.
+
 # Professional Affiliations and Service
 
 Since 2021, I have been the graduate student lab manager in the [Civic Infrastructure Lab](https://comartsci.msu.edu/civic-infrastructure-lab). I am also an affiliate with the [Rural Computing Research Consortium](https://ruralcomputing.msu.edu/), and as well as a Research Fellow with the [Quello Center](https://quello.msu.edu/).
