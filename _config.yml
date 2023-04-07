@@ -16,13 +16,11 @@
 title: "Ava Francesca Battocchio"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  
 twitter_username: _afbat
 github_username: afbat
 minimal_mistakes_skin: contrast
-search: true
+search: false
 url                      : https://afbat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "afbat/afbat.github.io"
 
@@ -65,12 +63,12 @@ author:
   bio              : "Information & Media PhD Student"
   location         : "Michigan State University"
   links:
-  #  - label: "Email"
-  #    icon: "fab fa-fw fa-email"
-  #    url: "battocch@msu.edu"
-  #  - label: Website
-  #    icon "fas fa-university"
-  #    url: "https://comartsci.msu.edu/our-people/ava-francesca-battocchio"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "battocch@msu.edu"
+    - label: Website
+      icon: "fas fa-fw fa-link"
+      url: "https://comartsci.msu.edu/our-people/ava-francesca-battocchio"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_afbat"
@@ -104,14 +102,14 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: posts
+      path: "about"
+      type: pages
     values:
       layout: single
       author_profile: true
       read_time: true
       comments: true
-      share: false
+      share: true
       related: true
   # _pages
   - scope:
