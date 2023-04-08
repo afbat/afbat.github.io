@@ -27,12 +27,10 @@ main:
     url: /
   - title: "Publications"
     url: /publications/
-  - title: "Projects"
-    url: /projects/
-  - title: "Hobbies"
-    url: /hobbies/
   - title: "CV"
     url: /cv/
+  #- title: "CV"
+  #  url: /cv/
 
   # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: America/Detroit
