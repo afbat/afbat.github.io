@@ -24,7 +24,7 @@ owner:
 # navigation links
 main:
   - title: "About"
-    url: /
+    url: 
   - title: "Publications"
     url: /_pages/publications/
   - title: "CV"
