@@ -105,9 +105,9 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: "pages"
+      type: pages
     values:
-      layout: "home"
+      layout: single
       author_profile: true
 
 category_archive:
