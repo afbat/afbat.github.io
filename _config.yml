@@ -1,42 +1,86 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+title: Ava Francesca Battocchio
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: "Ava Francesca Battocchio"
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: _afbat
-github_username: afbat
-minimal_mistakes_skin: contrast
-search: true
-url                      : https://afbat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-repository               : "afbat/afbat.github.io"
+# owner and author info
+owner:
+  name   : &name "Ava Francesca Battocchio"
+  avatar : "/assets/images/bio-photo.jpg"
+#   bio
+  email: battocch@msu.edu
+  # socials in author profile
+  twitter: _afbat
+  github: afbat
+  scholar: https://scholar.google.com/citations?user=JuKCgpcAAAAJ&hl
+
+# navigation links
+link:
+  - title: About
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: CV
+    url: /cv/
+
+  # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Detroit
+future: true
+highlighter: rouge
+# markdown: kramdown
+# markdown: redcarpet
+# pygments: true
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+  # coderay:
+  #   coderay_line_numbers:
+  #   coderay_line_numbers_start: 1
+  #   coderay_tab_width: 4
+  #   coderay_bold_every: 10
+  #   coderay_css: class
+
+# disqus settings:
+# disqus:
+#  shortname: 
+
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+
+
+
+
+# rewriting code dump
+
+# email:
+# bdescription: >- # this means to ignore newlines until "baseurl:"
+#  Write an awesome description for your new site here. You can edit this
+#  line in _config.yml. It will appear in your document head meta (for
+#  Google search results) and in your feed.xml site description.
+# twitter_username: _afbat
+# github_username: afbat
+# minimal_mistakes_skin: contrast
+# search: true
+# url                      : https://afbat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#repository               : "afbat/afbat.github.io"
 
 # Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+#markdown: kramdown
+# remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
 
-include:
-  - _pages
+
+# include:
+ # - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -51,70 +95,41 @@ include:
 #   - vendor/ruby/
 
 # Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
+# plugins:
+#  - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll-gist
+#  - jekyll-feed
+#  - jemoji
+#  - jekyll-include-cache
 
-author:
-  name   : &name "Ava Francesca Battocchio"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio              : "Information & Media PhD Student"
-  location         : "Michigaan State University"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_afbat"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/afbat"
+# author:
+#  name   : &name "Ava Francesca Battocchio"
+#  avatar : "/assets/images/bio-photo.jpg"
+#  bio              : "Information & Media PhD Student"
+#  location         : "Michigaan State University"
+#  links:
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/_afbat"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/afbat"
   
 #-  googlescholar    : "https://scholar.google.com/citations?user=JuKCgpcAAAAJ&hl=en"
 #  email            : "battocch@msu.edu"
 #  researchgate     :  "https://www.researchgate.net/profile/Ava-Francesca-Battocchio"
 #  orcid            : "https://orcid.org/0000-0003-4950-5782"
 #   osf              : "4nh6g"
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_afbat"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/afbat"
+# footer:
+#  links:
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/_afbat"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/afbat"
 
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
