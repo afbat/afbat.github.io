@@ -94,9 +94,9 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: "pages"
     values:
-      layout: single
+      layout: "home"
       author_profile: true
       read_time: true
       comments: true
@@ -105,9 +105,9 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: "pages"
     values:
-      layout: single
+      layout: "home"
       author_profile: true
 
 category_archive:
