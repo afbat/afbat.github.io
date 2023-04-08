@@ -18,8 +18,11 @@ Since 2021, I have been the graduate student lab manager in the [Civic Infrastru
 
 Outside of Michigan State, I also serve as a graduate student liaison to both the AEJMC History Division and AEJMC Communication Theory and Methods Division.
 
-### Background 
+### Pre-PhD 
 
 I'm a non-traditional student from a working-class, low-income background. After three attempts at community college, in two states, I earned my associate degree in 2015 from Housatonic Community College in Bridgeport, Connecticut. In 2017, I moved from Duluth, Minnesota to Chicago and was Loyola University Chicago’s School of Communication’s first dual-degree student. I concurrently completed my Bachelor of Arts in Advertising (2019) and Master of Science in Global Strategic Communication (2020) while juggling between two and four jobs. (I would say that my stints as a chandler and a chicken-sitter provided the best perks during this period.) 
 
-## News and Updates
+Previous creative and activist work includes collaborating with and coordinating distribution for a feminist Zine collective; designing, producing, and managing a size-inclusive, femme vintage reproduction apparel line; and several years, on-call overnight, as a crisis hospital advocate for survivors of sexual violence.
+
+
+### News and Updates
