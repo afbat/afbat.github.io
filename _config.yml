@@ -94,7 +94,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: "pages"
+      type: "posts"
     values:
       layout: "home"
       author_profile: true
@@ -107,7 +107,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: "home"
+      layout: single
       author_profile: true
 
 category_archive:
