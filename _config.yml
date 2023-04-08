@@ -19,8 +19,7 @@ owner:
 # https://search.google.com/search-console/ownership
 #google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify: ""
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here bing_verify: ""
 
 # navigation links
 link:
@@ -28,8 +27,6 @@ link:
     url: /
   - title: Publications
     url: /publications/
-  - title: CV
-    url: /cv/
   - title: Projects
     url: /projects/
   - title: Hobbies
