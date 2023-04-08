@@ -2,13 +2,15 @@
 layout: page
 ---
 
-# About Me
+### About Me
 
-Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comartsci.msu.edu/our-people/ava-francesca-battocchio) PhD Student in the [Department of Advertising and Public Relations](https://comartsci.msu.edu/departments/advertising-public-relations), under the advisement of Dr. [Kjerstin Thorson](https://comartsci.msu.edu/our-people/kjerstin-thorson)
+Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comartsci.msu.edu/our-people/ava-francesca-battocchio) PhD Student  and University Enrichment Fellow in the [Department of Advertising and Public Relations](https://comartsci.msu.edu/departments/advertising-public-relations). I under the advisement of Dr. [Kjerstin Thorson](https://comartsci.msu.edu/our-people/kjerstin-thorson), as well as guided by my committee which includes Dr. [Jean Hardy](https://comartsci.msu.edu/our-people/jean-hardy), Dr. [Marisa Smith](https://comartsci.msu.edu/our-people/marisa-smith) and Dr. [Dan Hiaeshutter-Rice](https://comartsci.msu.edu/our-people/dan-hiaeshutter-rice). 
 
 ### Research Interests
 
-My work centers on how rural and post-industrial community structures and collective identity shape hybrid civic storytelling networks, or how people come to share information that impacts civic life. I'm particularly interested in communities in the northern Great Lakes region that simultaneously grapple with economic changes and shifting media landscapes in the form of declining local news and inequities in digital access. I love mixing ethnographic and computational methods to tackle these questions. Also, if given the change, I will heavily proselytize R, LaTeX, Zotero, and some combination of the three.
+My work centers on how rural and post-industrial community structures and collective identity shape hybrid civic storytelling networks, or how people come to share information that impacts civic life. I'm particularly interested in communities in the northern Great Lakes region that simultaneously grapple with economic changes and shifting media landscapes in the form of declining local news and inequities in digital access. 
+
+I love mixing ethnographic and computational methods to tackle these questions. Also, if given the change, I will heavily proselytize R, LaTeX, Zotero, and some combination of the three.
 
 ### Professional Affiliations and Service
 
