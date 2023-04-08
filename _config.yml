@@ -50,6 +50,15 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+
   # coderay:
   #   coderay_line_numbers:
   #   coderay_line_numbers_start: 1
