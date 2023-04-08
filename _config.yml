@@ -16,11 +16,13 @@
 title: "Ava Francesca Battocchio"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 twitter_username: _afbat
 github_username: afbat
-minimal_mistakes_skin: dark
-search: false
+minimal_mistakes_skin: contrast
+search: true
 url                      : https://afbat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "afbat/afbat.github.io"
 
@@ -61,34 +63,23 @@ author:
   name   : &name "Ava Francesca Battocchio"
   avatar : "/assets/images/bio-photo.jpg"
   bio              : "Information & Media PhD Student"
-  location         : "Michigan State University"
+  location         : "Michigaan State University"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "battocch@msu.edu"
-    - label: Website
+    - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://comartsci.msu.edu/our-people/ava-francesca-battocchio"
+      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_afbat"
-  #  - label: "GitHub"
-  #    icon: "fab fa-fw fa-github"
-  #    url: "https://github.com/afbat"
-  #  - label: "Google Scholar"
-  #    icon: "ai ai-google-scholar"
-  #    url: "https://scholar.google.com/citations?user=JuKCgpcAAAAJ&hl=en"
-  #  - label: "Research Gate"
-  #    icon: "ai ai-researchgate"
-  #    url: "https://www.researchgate.net/profile/Ava-Francesca-Battocchio"
-  #  - label: "0000-0003-4950-5782"
-  #    icon: "ai ai-orcid"
-  #    url: "https://orcid.org/0000-0003-4950-5782"
-  #  - label: "OSF"
-  #    icon: "ai ai-osf"
-  #    url: "https://osf.io/4nh6g/"
-
-
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/afbat"
+  
+#-  googlescholar    : "https://scholar.google.com/citations?user=JuKCgpcAAAAJ&hl=en"
+#  email            : "battocch@msu.edu"
+#  researchgate     :  "https://www.researchgate.net/profile/Ava-Francesca-Battocchio"
+#  orcid            : "https://orcid.org/0000-0003-4950-5782"
+#   osf              : "4nh6g"
 footer:
   links:
     - label: "Twitter"
@@ -103,9 +94,9 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: pages
+      type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: true
