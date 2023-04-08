@@ -26,9 +26,9 @@ main:
   - title: "About"
     url: /
   - title: "Publications"
-    url: /publications/
+    url: /_pages/publications/
   - title: "CV"
-    url: /cv/
+    url: /_pages/cv/
   #- title: "CV"
   #  url: /cv/
 
@@ -36,15 +36,15 @@ main:
 timezone: America/Detroit
 future: true
 highlighter: rouge
-# markdown: kramdown
+markdown: kramdown
 # markdown: redcarpet
 # pygments: true
+remote_theme: GuangLun2000/GuangLun2000.github.io
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
 
-markdown: kramdown
-remote_theme: GuangLun2000/GuangLun2000.github.io
+
 
 
 plugins:
