@@ -22,13 +22,13 @@ owner:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here bing_verify: ""
 
 # navigation links
-main:
-  - title: "About"
-    url: 
-  - title: "Publications"
-    url: /_pages/publications/
-  - title: "CV"
-    url: /_pages/cv/
+#main:
+#  - title: "About"
+#    url: 
+#  - title: "Publications"
+#    url: /_pages/publications/
+#  - title: "CV"
+#    url: /_pages/cv/
   #- title: "CV"
   #  url: /cv/
 
