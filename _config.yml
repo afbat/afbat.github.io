@@ -22,15 +22,19 @@ owner:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here bing_verify: ""
 
 # navigation links
-main:
-  - title: "About"
-    url: 
-  - title: "Publications"
-    url: /_pages/publications/
-#  - title: "CV"
-    url: /_pages/cv/
-  - title: "CV"
-    url: /cv/
+links:
+  - title: About Me
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: Projects
+    url: /projects/
+  - title: Awards
+    url: /awards/
+  - title: Hobbies
+    url: /hobbies/
+  - title: Blogs
+    url: /blogs/
 
   # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: America/Detroit
