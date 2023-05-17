@@ -12,4 +12,4 @@ title: Projects
 # Open-source Projects
 
 - Qualitative OSF pre-registration template
-- LaTeX templates
+

@@ -39,7 +39,7 @@ highlighter: rouge
 markdown: kramdown
 # markdown: redcarpet
 # pygments: true
-remote_theme: GuangLun2000/GuangLun2000.github.io
+#remote_theme: GuangLun2000/GuangLun2000.github.io
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
