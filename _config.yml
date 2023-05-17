@@ -4,24 +4,33 @@ title: Ava Francesca Battocchio
 #Comment out url when working locally to resolve base urls correctly
 url: https://afbat.github.io/
 
-# owner and author info
+# Owner/author information
 owner:
-  name   : &name "Ava Francesca Battocchio"
-  avatar : afbat.jpg
-#   bio
+  name: Ava Francesca Battocchio
+  avatar: afbat.jpg
+#  bio:
   email: battocch@msu.edu
-  # socials in author profile
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: _afbat
+  # facebook: 
   github: afbat
+  # linkedin: 
   scholar: https://scholar.google.com/citations?user=JuKCgpcAAAAJ&hl
+  # instagram:
+  # lastfm:
+  # tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  # google_plus:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-#google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# google_verify: 
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here bing_verify: ""
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# bing_verify: ""
 
-# navigation links
+# Links to include in top navigation
+# For external links add external: true
 links:
   - title: About Me
     url: /
@@ -36,29 +45,25 @@ links:
   - title: Blogs
     url: /blogs/
 
-  # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: America/Detroit
 future: true
 highlighter: rouge
-markdown: kramdown
+# markdown: kramdown
 # markdown: redcarpet
 # pygments: true
-#remote_theme: GuangLun2000/GuangLun2000.github.io
+
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
 
 
-
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 
   # coderay:
   #   coderay_line_numbers:
@@ -67,10 +72,12 @@ plugins:
   #   coderay_bold_every: 10
   #   coderay_css: class
 
-# disqus settings:
-# disqus:
-#  shortname: 
 
+# disqus settings:
+disqus:
+  shortname: 
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+
+
