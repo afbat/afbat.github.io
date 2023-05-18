@@ -4,7 +4,7 @@ title: "CV"
 ---
 ### CV
 
-See below for abbreviated cv, or feel free to access a pdf version here.
+See below for abbreviated cv, or [feel free to access a downloadable pdf version here.(http://afbat.github.io/files/BattocchioCV.pdf)]
 
 #### Education
 - Ph.D in Information and Media, Michigan State University, 2025 (expected)
