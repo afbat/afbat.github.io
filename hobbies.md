@@ -11,7 +11,7 @@ When I’m is not studying, my interests include volunteering as a public histor
 ### Public History Lectures
 
 In addition to providing public history tours in Chicago's Edgewater and Albany Park community areas, as well as well as a Transit Tour on the Brown Line, I have given several public lectures:
-<br>
+<br><br>
 
 **The Chicago Council on Science and Technology (C2ST) “From Here to There: The History and Future of Chicago’s Transportation”**<br>
 _Monday May 3rd, 2021 at 6 PM EDT on Facebook Live/YouTube Live_
