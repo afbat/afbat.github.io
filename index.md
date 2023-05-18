@@ -27,4 +27,7 @@ Previous creative and activist work includes collaborating with and coordinating
 
 ### News and Updates
 
-- **May 2023**
+- **May 2023** AEJMC acceptance came on the break day before my 4th and final Comprehensive Exam question. Heading to ICA -- excited to see folks there
+- **April 2023** accepted to University of Michigan's Digital IDEAS Summer Institute with a scholarship
+- **March 2023** abstract for ICA PolComm Grad Student Pre-Conference accepted -- guess I'm going to Toronto early.
+- **January 2023** ICA acceptance -- See you in Toronto!
