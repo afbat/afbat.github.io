@@ -8,13 +8,16 @@ layout: nil
     </url>
     <url>
       <loc>https://afbat.github.io/publications/</loc>
-    </url>    
+    </url>
     <url>
       <loc>https://afbat.github.io/projects/</loc>
     </url>
+        <url>
+      <loc>https://afbat.github.io/cv/</loc>
+    </url>
     <url>
       <loc>https://afbat.github.io/awards/</loc>
-    </url>   
+    </url>
     <url>
       <loc>https://afbat.github.io/hobbies/</loc>
     </url>
