@@ -4,14 +4,14 @@ title: "CV"
 ---
 ### CV
 
-Education
+#### Education
 ======
 * Ph.D in Information and Media, Michigan State University, 2025 (expected)
 * M.S. in Global Strategic Communication (Dual Degree), Loyola University Chicago, 2018-2020
 * B.A. in Advertising (Dual-Degree), Loyola University Chicago, 2017-2019
 * A.S. in Criminal Justice, Housatonic Community College, 2015
 
-Publications
+#### Publications
 ======
 Battocchio, A. F., Thorson, K., Hiaeshutter‑Rice, D., Smith, M., Chen, Y., Edgerly, S., Cotter, K., Choung, H., Dong, C., Moldagaliyeva, M., and Etheridge, C. (Forthcoming). “Who will tell the stories of public health inequities? Platform challenges (and opportunities) in local civic information infrastructure.” The ANNALS of the American Academy of Political and Social Science.
 
@@ -48,7 +48,7 @@ Work experience
   * <b>Funding</b>: National Endowment for the Humanities and Library of Congress Lavine and Ken Burns Prize for Film
   * <b>Project</b>: “Flannery: The Storied Life of the Writer from Georgia”
 
-Skills
+#### Skills
 ======
  * Analysis and Statistical Software, and Programming Languages
   * R (intermediate)
