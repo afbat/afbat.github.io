@@ -4,7 +4,7 @@ layout: page
 
 ### About Me
 
-Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comartsci.msu.edu/our-people/ava-francesca-battocchio) PhD Student  and University Enrichment Fellow in the [Department of Advertising and Public Relations](https://comartsci.msu.edu/departments/advertising-public-relations). I am under the advisement of Dr. [Kjerstin Thorson](https://comartsci.msu.edu/our-people/kjerstin-thorson). 
+Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comartsci.msu.edu/our-people/ava-francesca-battocchio) PhD Student  and University Enrichment Fellow in the [Department of Advertising and Public Relations](https://comartsci.msu.edu/departments/advertising-public-relations). I am under the advisement of Dr. [Kjerstin Thorson](https://comartsci.msu.edu/our-people/kjerstin-thorson).
 
 ### Research Interests
 
@@ -27,7 +27,7 @@ Previous creative and activist work includes collaborating with and coordinating
 
 ### News and Updates
 
-- **May 2023** AEJMC acceptance came on the break day before my 4th and final Comprehensive Exam question. Heading to ICA -- excited to see folks there
-- **April 2023** accepted to University of Michigan's Digital IDEAS Summer Institute with a scholarship
-- **March 2023** abstract for ICA PolComm Grad Student Pre-Conference accepted -- guess I'm going to Toronto early.
-- **January 2023** ICA acceptance -- See you in Toronto!
+- **May 2023** | AEJMC acceptance came on the break day before my 4th and final Comprehensive Exam question. Heading to ICA next week -- excited to see folks there
+- **April 2023** | accepted to University of Michigan's Digital IDEAS Summer Institute with a scholarship
+- **March 2023** | abstract for ICA PolComm Grad Student Pre-Conference accepted -- guess I'm going to Toronto early.
+- **January 2023** | ICA acceptance -- See you in Toronto!
