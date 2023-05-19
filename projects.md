@@ -15,7 +15,6 @@ See consent form: [MSU IRB Study 00007852](https://drive.google.com/file/d/12YZb
 #### Local Digital Civic Infrastructure in Upper Midwestern Communities
 
 I am part of a cross-institutional research team exploring the factors affecting how local government, media, and non-profit organizations in the Upper Midwest use social and digital media to inform the public of civic events and issues. Our team is based out of Michigan State University, University of Kansas, Northwestern University, Penn State, and Renmin University of China. We are interested in interviewing individuals involved in marketing/outreach/communications efforts.
-
 <br><br>
 See consent form: [MSU IRB Study 00007852](https://drive.google.com/file/d/12YZbIda_gLvGJVufgwHk9b81o9HVbTj-/view?usp=sharing)
 <br><br><br>
