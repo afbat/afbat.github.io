@@ -4,7 +4,7 @@ layout: page
 
 ### About Me
 
-Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comartsci.msu.edu/our-people/ava-francesca-battocchio) PhD Student  and University Enrichment Fellow in the [Department of Advertising and Public Relations](https://comartsci.msu.edu/departments/advertising-public-relations). I am under the advisement of Dr. [Kjerstin Thorson](https://comartsci.msu.edu/our-people/kjerstin-thorson).
+Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comartsci.msu.edu/our-people/ava-francesca-battocchio) PhD Student  and University Enrichment Fellow in the [Department of Advertising and Public Relations](https://comartsci.msu.edu/departments/advertising-public-relations) at Michigan State University. I am under the advisement of Dr. [Kjerstin Thorson](https://comartsci.msu.edu/our-people/kjerstin-thorson).
 
 ### Research Interests
 
