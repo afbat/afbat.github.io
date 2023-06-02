@@ -26,7 +26,7 @@ Previous creative and activist work includes collaborating with and coordinating
 
 
 ### News and Updates
-
+- **June 2023** | Had an awesome ICA in Toronto. But I guess the bigger news is that on June 1, I successfully defended my Comprehensive Exams which means I'm now a PhD Candidate 🎉 Excited to start working on my dissertation proposal and to head out into the field next week. But first, sleep.
 - **May 2023** | AEJMC acceptance came on the break day before my 4th and final Comprehensive Exam question. Heading to ICA next week -- excited to see folks there
 - **April 2023** | accepted to University of Michigan's Digital IDEAS Summer Institute with a scholarship
 - **March 2023** | abstract for ICA PolComm Grad Student Pre-Conference accepted -- guess I'm going to Toronto early.
