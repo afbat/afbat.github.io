@@ -26,6 +26,7 @@ Previous creative and activist work includes collaborating with and coordinating
 
 
 ### News and Updates
+- **July 2023** | Outta the Bush and into the books: returned from a week of fieldwork Up North and dove right into the University of Michigan's [Digital Studies Summer Institute](https://www.digitalstudies.umich.edu/digital-ideas/2023.html). Really excited to spend to spend the next two weeks learning and growing alongside an awesome group of social justice-oriented scholars and practitioners. Additionally, I will join the [Center for Information, Technology, and Public Life's](https://citap.unc.edu/) as an affiliate for the 2023-2024 academic year. In sum, lots of opportunities to connect with others doing super rad and important work. 
 - **June 2023** | Had an awesome ICA in Toronto. But I guess the bigger news is that on June 1, I successfully defended my Comprehensive Exams which means I'm now a PhD Candidate 🎉 Excited to start working on my dissertation proposal and to head out into the field next week. But first, sleep.
 - **May 2023** | AEJMC acceptance came on the break day before my 4th and final Comprehensive Exam question. Heading to ICA next week -- excited to see folks there
 - **April 2023** | accepted to University of Michigan's Digital IDEAS Summer Institute with a scholarship
