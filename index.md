@@ -15,9 +15,9 @@ I love mixing ethnographic and computational methods to tackle these questions. 
 
 ### Professional Affiliations and Service
 
-Since 2021, I have been the graduate student lab manager in the [Civic Infrastructure Lab](https://comartsci.msu.edu/civic-infrastructure-lab). I am also an affiliate with the [Rural Computing Research Consortium](https://ruralcomputing.msu.edu/) and  [Center for Information, Technology, and Public Life](https://citap.unc.edu/), as well as a Research Fellow with the [Quello Center](https://quello.msu.edu/).
+Since 2021, I have been the graduate student lab manager in the [Civic Infrastructure Lab](https://comartsci.msu.edu/civic-infrastructure-lab). I am also an affiliate with the [Rural Computing Research Consortium](https://ruralcomputing.msu.edu/), as well as a Research Fellow with the [Quello Center](https://quello.msu.edu/).
 <br><br>
-Outside of Michigan State, I also serve as a graduate student liaison to both the AEJMC History Division and AEJMC Communication Theory and Methods Division.
+Outside of Michigan State, I am an affiliate with the [Center for Information, Technology, and Public Life](https://citap.unc.edu/). I also serve as a graduate student liaison to both the AEJMC History Division and AEJMC Communication Theory and Methods Division.
 
 ### Pre-PhD Program
 
