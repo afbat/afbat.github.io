@@ -7,9 +7,6 @@ layout: page
 
 Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comartsci.msu.edu/our-people/ava-francesca-battocchio) PhD Candidate and University Enrichment Fellow in the [Department of Advertising and Public Relations](https://comartsci.msu.edu/departments/advertising-public-relations) at Michigan State University. I am under the advisement of Dr. [Kjerstin Thorson](https://comartsci.msu.edu/our-people/kjerstin-thorson).
 
-<img src="images/Battocchio-fieldwork.png " alt="femme presenting human with brown hair and blond highlights, black thick framed glasses and black jacket and hoodie with frozen Lake Superior and blue grey sky in background" style="float: right; margin: 0 0 10px 10px; width: 30%;" />
-
-
 ### Research Interests
 
 My work centers on how rural and post-industrial community structures and collective identity shape hybrid civic storytelling networks, or how people come to share information that impacts civic life. I'm particularly interested in communities in the northern Great Lakes region that simultaneously grapple with economic changes and shifting media landscapes in the form of declining local news and inequities in digital access.
