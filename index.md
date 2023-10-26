@@ -11,7 +11,7 @@ Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comart
 
 My work centers on how rural and post-industrial community structures and collective identity shape hybrid civic storytelling networks, or how people come to share information that impacts civic life. I'm particularly interested in communities in the northern Great Lakes region that simultaneously grapple with economic changes and shifting media landscapes in the form of declining local news and inequities in digital access.
 <br><br>
-I love mixing ethnographic and computational methods to tackle these questions. If given the chance, I will heavily proselytize R.
+I love mixing ethnographic and computational methods to tackle these questions.
 
 ### Professional Affiliations and Service
 

@@ -6,7 +6,12 @@ title: Hobbies
 
 ### Hobbies
 
-When I’m is not studying, my interests include volunteering as a public history and industrial heritage tour guide(think “grains and trains”), social activism, rail-fanning, biking, alternative print media, sewing, and photography. I also spend a lot of time with 2 sassy geriatric cats and the botanic garden in my house.
+When I’m is not studying, my interests include volunteering as a public history and industrial heritage tour guide(think “grains and trains”), social activism, rail-fanning, biking, alternative print media, sewing, and photography.
+
+I really enjoy tinkering around with computers and programming languages when I'm not using them for work. If given the chance, I will heavily proselytize R while trying to convince you to convert to a Zotero-Rmarkdown/Quarto notetaking workflow and to turn that old MacBook into a dedicated Linux machine (sorry in advance).
+
+I also spend a lot of time in what I call "The Retirement Community" which consists of 2 sassy geriatric cats, nicknamed "The Grandparents", and the botanic garden in my house.
+
 
 ### Public History Lectures
 
