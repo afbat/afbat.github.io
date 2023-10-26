@@ -3,6 +3,7 @@ layout: page
 ---
 
 ### About Me
+<img src="images/Battocchio-fieldwork.png " alt="femme presenting human with brown hair and blond highlights, black thick framed glasses and black jacket and hoodie with frozen Lake Superior and blue grey sky in background" style="float: right; margin: 0 0 10px 10px; width: 30%;" />
 
 Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comartsci.msu.edu/our-people/ava-francesca-battocchio) PhD Candidate and University Enrichment Fellow in the [Department of Advertising and Public Relations](https://comartsci.msu.edu/departments/advertising-public-relations) at Michigan State University. I am under the advisement of Dr. [Kjerstin Thorson](https://comartsci.msu.edu/our-people/kjerstin-thorson).
 
