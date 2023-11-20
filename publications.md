@@ -21,6 +21,10 @@ title: Publications
  
 ### Peer-reviewed Book Chapters
 
-- **Battocchio, A.F.,** Wells, C., Vraga, E., Thorson, K., Edgerly, S., and Bode, L. (2023) “Gen Z’s civic engagement: News use, politics, and cultural engagement.” in Handbook of Digital Politics
+- ["Gen Z’s civic engagement: News use, politics, and cultural engagement"](https://www.researchgate.net/publication/375765894_Gen_Z's_civic_engagement_civic_skills_political_expression_and_identity)
+    
+    - **Battocchio, A.F.,** Wells, C., Vraga, E., Thorson, K., Edgerly, S., and Bode, L. (2023) “Gen Z’s civic engagement: News use, politics, and cultural engagement.” in Handbook of Digital Politics
+ 
+- [Gen Z’s civic engagement: Civic skills, political expression, and identity](https://www.researchgate.net/publication/375765894_Gen_Z's_civic_engagement_civic_skills_political_expression_and_identity)
 
-- **Battocchio, A.F.,** Bode, L., Wells, C., Vraga, E., Thorson, K., and Edgerly, S. (2023). “Gen Z’s civic engagement: Civic skills, political expression, and identity .” in Handbook of Digital Politics
+    - **Battocchio, A.F.,** Bode, L., Wells, C., Vraga, E., Thorson, K., and Edgerly, S. (2023). “Gen Z’s civic engagement: Civic skills, political expression, and identity.” in Handbook of Digital Politics
