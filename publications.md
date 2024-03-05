@@ -11,8 +11,9 @@ title: Publications
     - ***Recommended citation:*** **Battocchio, A. F.**, Thorson, K., Hiaeshutter‐Rice, D., Smith, M., Chen, Y., Edgerly, S., Cotter, K., Choung, H., Dong, C., Moldagaliyeva, M., and Etheridge, C. (2023).“Who will tell the stories of health inequities? Platform challenges (and opportunities) in local civic information infrastructure.” The ANNALS of the American Academy of Political and Social Science, 707(1), 144–171. https://doi.org/10.1177/00027162 231214398
 
 
--[“Do Good and Be ‘Liked’: Corporate messaging on social media during COVID‐ 19 and consumer responses.”](http://afbat.github.io/files/Battocchio_et_al2023a)
-    - ***Recommended citation:*** [**Battocchio, A. F.**, Yang, J., Dong, C., Bertellotti, E., & Teran, C. (2024). “Do Good and Be ‘Liked’: Corporate messaging on social media during COVID‐ 19 and consumer responses.” Journal of Current Issues & Research in Advertising. https://doi.org/10.1080/10641734.2023.2291778
+- [“Do Good and Be ‘Liked’: Corporate messaging on social media during COVID‐ 19 and consumer responses.”](http://afbat.github.io/files/Battocchio_et_al2023a)
+
+    - ***Recommended citation:*** **Battocchio, A. F.**, Yang, J., Dong, C., Bertellotti, E., & Teran, C. (2024). “Do Good and Be ‘Liked’: Corporate messaging on social media during COVID‐ 19 and consumer responses.” Journal of Current Issues & Research in Advertising. https://doi.org/10.1080/10641734.2023.2291778
 
 
 - [“I Use Social Media as an Escape from All That” Personal Platform Architecture and the Labor of Avoiding News](http://afbat.github.io/files/ThorsonBattocchio_2023.pdf)
