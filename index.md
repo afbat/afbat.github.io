@@ -27,6 +27,9 @@ Previous creative and activist work includes collaborating with and coordinating
 
 
 ### News and Updates
+- **April 2024:**
+    Several major updates since the fall, aside from the fact that I still need a nap. First and most importantly, I defended my dissertation proposal earlier this month 🎉. On a similar note, while I was completing my proposal, I submitted 3 different grant applications to fund my mixed ethnographic and computational methods dissertation and was awarded all 3, coming in at a little under $13,000. I'm very grateful to the Department of Advertising + Public Relations, the College of Communication Arts & Sciences and the Charles J. Strosacker Graduate Research Fund for Health and Risk Communication in the Michigan State University College of Communication Arts & Sciences for supporting my dissertation work. Other highlights include 3 publications making their way out into the world, lots of exciting progress on the NSF-funded project on volunteer moderators for local groups,and an ICA acceptance, which means I will be headed to Australia in June. Lastly, I'm getting ready to go on the market this summer and I'm very much looking forward to seeing where I land next.
+
 - **October 2023:**
     Busy (but exciting) couple of months-- dissertation proposal writing in full swing, couple of fieldwork trips Up North, started my appointment for the next year as a Research Assistant on a NSF-funded project, had a publication accepted, and have a couple other manuscripts in various stages of getting out the door. Perhaps, more exciting news is that on November 2nd I will be presenting very early findings from over a year of ethnographic fieldwork alongside Jean Hardy, PhD, at the [Merit Network's Michigan Broadband Summit](https://www.merit.edu/community/events/michigan-broadband-summit-2023/#agenda). (And then I will probably take a nap.)
 
