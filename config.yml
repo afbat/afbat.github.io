@@ -39,7 +39,7 @@ params:
     DateFormat: "January 2006"
     hideFooter: true
     
-    defaultTheme: dark
+    defaultTheme: "dark"
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
