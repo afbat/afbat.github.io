@@ -36,10 +36,10 @@ params:
     author: Ava Francesca Battocchio
     #googleAnalyticsID: "G-"
     DateFormat: "January 2006"
+    hideFooter: true
     
     defaultTheme: dark
-    hideFooter: true
-    disableThemeToggle: false
+    #disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
