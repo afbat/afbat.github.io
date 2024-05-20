@@ -38,9 +38,9 @@ params:
     #googleAnalyticsID: "G-"
     DateFormat: "January 2006"
     hideFooter: true
-    
+
     defaultTheme: dark
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -51,7 +51,7 @@ params:
     ShowRssButtonInSectionTermList: false
     ShowToc: true
     disableScrollToTop: true
-    TocOpen: true
+    TocOpen: false
     ShowWordCount: false
     UseHugoToc: true
     comments: false
