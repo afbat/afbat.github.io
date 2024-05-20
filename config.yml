@@ -67,7 +67,7 @@ params:
             - name: Papers
               url: /papers/
             - name: CV
-              url: /cv/
+              url: /cv.pdf
             - name: Design
               url: /design/
             - name: Projects
