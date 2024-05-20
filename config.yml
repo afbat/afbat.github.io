@@ -1,4 +1,4 @@
-baseURL: "https://afbat.github.io"
+baseURL: "https://afbat.co"
 title: Ava Francesca Battocchio
 paginate: 20
 theme: PaperMod
@@ -34,6 +34,7 @@ menu:
 params:
     description: "This website hosts Ava Francesca Battocchio's research papers, cv, design projects, projects, and contact information."
     author: Ava Francesca Battocchio
+    env: production
     #googleAnalyticsID: "G-"
     DateFormat: "January 2006"
     hideFooter: true
