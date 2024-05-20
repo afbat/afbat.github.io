@@ -119,7 +119,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn
+        style: monokai
     tableOfContents:
         endLevel: 2
         ordered: false
