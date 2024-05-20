@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Information Exposure Model on Ava Francesca Battocchio</title>
+    <link>http://localhost:1313/tags/information-exposure-model/</link>
+    <description>Recent content in Information Exposure Model on Ava Francesca Battocchio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/information-exposure-model/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Identity Driven Information Ecosystems</title>
+      <link>http://localhost:1313/8/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/8/</guid>
+      <description>This article presents the Identity Driven Information Ecosystem (IDIE) approach, showing how identity shapes information exposure and processing, illustrated by COVID-19.</description>
+    </item>
+    
+  </channel>
+</rss>

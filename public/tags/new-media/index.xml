@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>New Media on Ava Francesca Battocchio</title>
+    <link>http://localhost:1313/tags/new-media/</link>
+    <description>Recent content in New Media on Ava Francesca Battocchio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/new-media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“I Use Social Media as an Escape from All That” Personal Platform Architecture and the Labor of Avoiding News</title>
+      <link>http://localhost:1313/3/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/3/</guid>
+      <description>This study explores how U.S. young adults design their media worlds across platforms, impacting news use, based on 50 guided interviews on social media.</description>
+    </item>
+    
+  </channel>
+</rss>

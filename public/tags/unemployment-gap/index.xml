@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Unemployment Gap on Ava Francesca Battocchio</title>
+    <link>http://localhost:1313/tags/unemployment-gap/</link>
+    <description>Recent content in Unemployment Gap on Ava Francesca Battocchio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/unemployment-gap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unemployment</title>
+      <link>http://localhost:1313/c1/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/c1/</guid>
+      <description>This course presents a matching model of unemployment and uses it to study unemployment fluctuations, job rationing, and labor market policies.</description>
+    </item>
+    
+    <item>
+      <title>Slackish Business Cycles</title>
+      <link>http://localhost:1313/b1/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/b1/</guid>
+      <description>This book reviews facts about business cycles, develops a matching model to explain them, and discusses how monetary and fiscal policy can stabilize them.</description>
+    </item>
+    
+  </channel>
+</rss>
