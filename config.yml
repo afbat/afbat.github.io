@@ -1,10 +1,11 @@
-baseURL: "https://afbat.github.io"
+baseURL: "https://afbat.co"
 title: Ava Francesca Battocchio
 paginate: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
+enableEmoji: true
 
 taxonomies:
     tag: tags
@@ -15,7 +16,7 @@ menu:
           url: /papers/
           weight: 1
         - name: CV
-          url: /cv.pdf/
+          url: /cv.pdf
           weight: 2
         - name: Design
           url: /design/
@@ -33,10 +34,12 @@ menu:
 params:
     description: "This website hosts Ava Francesca Battocchio's research papers, cv, design projects, projects, and contact information."
     author: Ava Francesca Battocchio
+    env: production
     #googleAnalyticsID: "G-"
     DateFormat: "January 2006"
-    defaultTheme: "dark"
     hideFooter: true
+    
+    defaultTheme: dark
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -46,7 +49,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowRssButtonInSectionTermList: false
-    ShowToc: false
+    ShowToc: true
     disableScrollToTop: true
     TocOpen: true
     ShowWordCount: false
@@ -67,7 +70,7 @@ params:
             - name: Papers
               url: /papers/
             - name: CV
-              url: /cv/
+              url: /cv.pdf
             - name: Design
               url: /design/
             - name: Projects
@@ -116,7 +119,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn
+        style: monokai
     tableOfContents:
         endLevel: 2
         ordered: false
