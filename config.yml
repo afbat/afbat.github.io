@@ -1,4 +1,4 @@
-baseURL: "https://afbat.github.io" 
+baseURL: "https://afbat.github.io"
 title: Ava Francesca Battocchio
 paginate: 20
 theme: PaperMod
@@ -19,7 +19,7 @@ menu:
           weight: 2
         - name: Design
           url: /design/
-          weight: 3        
+          weight: 3
         - name: Projects
           url: /projects/
           weight: 4
@@ -37,7 +37,7 @@ params:
     DateFormat: "January 2006"
     defaultTheme: dark
     hideFooter: true
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -116,7 +116,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: autumn
     tableOfContents:
         endLevel: 2
         ordered: false
