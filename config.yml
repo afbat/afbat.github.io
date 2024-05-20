@@ -101,6 +101,8 @@ params:
           url: https://twitter.com/_afbat
         - name: ORCID
           url: https://orcid.org/0000-0003-4950-5782
+        - name: spotify
+        - url: https://open.spotify.com/user/eastcoastava?si=228af4b493db4538
 
     assets:
         disableHLJS: true
