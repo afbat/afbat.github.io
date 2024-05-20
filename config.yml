@@ -40,7 +40,7 @@ params:
     hideFooter: true
 
     defaultTheme: dark
-    disableThemeToggle: false
+    disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -49,7 +49,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowRssButtonInSectionTermList: false
-    ShowToc: true
+    ShowToc: false
     disableScrollToTop: true
     TocOpen: false
     ShowWordCount: false
