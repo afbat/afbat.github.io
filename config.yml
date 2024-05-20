@@ -39,7 +39,7 @@ params:
     hideFooter: true
     
     defaultTheme: dark
-    #disableThemeToggle: false
+    disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
