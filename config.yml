@@ -39,7 +39,7 @@ params:
     DateFormat: "January 2006"
     hideFooter: true
 
-    defaultTheme: auto # dark, light
+    defaultTheme: dark # defaultTheme: light or dark
     disableThemeToggle: false
 
     ShowShareButtons: false
@@ -119,8 +119,13 @@ markup:
         renderer:
             unsafe: true
     highlight:
+        # anchorLineNos: true
+        codeFences: true
         guessSyntax: true
+        lineNos: true
+        # noClasses: false
         style: monokai
+        lineNos: false
     tableOfContents:
         endLevel: 2
         ordered: false
