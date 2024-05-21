@@ -119,7 +119,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: monokai
+        style: modus-operandi
     tableOfContents:
         endLevel: 2
         ordered: false
