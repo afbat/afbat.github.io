@@ -41,18 +41,18 @@ I also spend a lot of time in what I call "The Retirement Community" which consi
 
 ##### Related material
 
-+ [Write up about my work for MSU's College of Communication Arts and Sciences (2022)](https://comartsci.msu.edu/about/newsroom/news/ava-francesca-battocchio-access-ecosystems-and-information-sharing)
++ [Write up about my work for MSU's College of Communication Arts and Sciences (2022)](https://comartsci.msu.edu/about/newsroom/news/ava-francesca-battocchio-access-ecosystems-and-information-sharing)<br><br>
 
-+ [Video discussing research with Drs. Jean Hardy and Bree Holtz for the Rural Computing Research Consortium (2022)](https://youtu.be/oACbZTeaGPM?si=r1vvk78VdO4Ww3eZ)
++ [Video discussing research with Drs. Jean Hardy and Bree Holtz for the Rural Computing Research Consortium (2022)](https://youtu.be/oACbZTeaGPM?si=r1vvk78VdO4Ww3eZ)<br><br>
 
-+ [Press Release from Tarleton Rural Communication Institute when I was one of 10 scholars selected across the country for their Inaugural Cohort (2021)](https://web.archive.org/web/20211209141852/https://www.tarleton.edu/scripts/press/display.asp?id=6656)
++ [Press Release from Tarleton Rural Communication Institute when I was one of 10 scholars selected across the country for their Inaugural Cohort (2021)](https://web.archive.org/web/20211209141852/https://www.tarleton.edu/scripts/press/display.asp?id=6656)<br><br>
 
-+ [Recorded panel for the Chicago Council on Science and Technology (C2ST) “From Here to There: The History and Future of Chicago’s Transportation” (2021)](https://www.youtube.com/watch?v=AdO9PRTMtoU&ab_channel=C2STTV)
++ [Recorded panel for the Chicago Council on Science and Technology (C2ST) “From Here to There: The History and Future of Chicago’s Transportation” (2021)](https://www.youtube.com/watch?v=AdO9PRTMtoU&ab_channel=C2STTV)<br><br>
 
-+ [Recorded public history lecture for Chicago for Chicagoans on public transit franchising entitled "​Trolleys and Trouble: Chicago’s Traction Wars" (2021)](https://www.facebook.com/chicagoforchicagoans/videos/214931620266978/)
++ [Recorded public history lecture for Chicago for Chicagoans on public transit franchising entitled "​Trolleys and Trouble: Chicago’s Traction Wars" (2021)](https://www.facebook.com/chicagoforchicagoans/videos/214931620266978/)<br><br>
 
-+ [Recorded public history lecture for Chicago for Chicagoans entitled "Advertise Judiciously: A History of Advertising in Chicago" (2020)](https://www.facebook.com/chicagoforchicagoans/videos/302737330889160/)
++ [Recorded public history lecture for Chicago for Chicagoans entitled "Advertise Judiciously: A History of Advertising in Chicago" (2020)](https://www.facebook.com/chicagoforchicagoans/videos/302737330889160/)<br><br>
 
-+ [Newspaper feature in the Duluth News Tribune: VINTAGE INSPIRED: Duluth woman mixes the old with the new in fashion designs. Duluth News Tribune (2017, March 19)](https://web.archive.org/web/20210920205920/http://www.duluthnewstribune.com/lifestyle/4236602-vintage-inspired-duluth-woman-mixes-old-new-fashion-designs)
++ [Newspaper feature in the Duluth News Tribune: VINTAGE INSPIRED: Duluth woman mixes the old with the new in fashion designs. Duluth News Tribune (2017, March 19)](https://web.archive.org/web/20210920205920/http://www.duluthnewstribune.com/lifestyle/4236602-vintage-inspired-duluth-woman-mixes-old-new-fashion-designs)<br><br>
 
 + [Newspaper feature in the Duluth News Tribune: With an eye for detail, Duluth photographer records forgotten urban landscapes (2015, May 25)](https://web.archive.org/web/20210920205920/http://www.duluthnewstribune.com/lifestyle/3749825-eye-detail-duluth-photographer-records-forgotten-urban-landscapes)
