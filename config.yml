@@ -18,14 +18,14 @@ menu:
         - name: CV
           url: /cv.pdf
           weight: 2
-        - name: Design
-          url: /design/
+        #- name: Design
+        #  url: /design/
           weight: 3
-        - name: Projects
-          url: /projects/
+        #- name: Projects
+        #  url: /projects/
           weight: 4
-        - name: Press
-          url: /press/
+        - name: About
+          url: /about/
           weight: 5
         - name: Updates
           url: /blog/
@@ -67,16 +67,16 @@ params:
           imageHeight: 160
           imageTitle: Ava Francesca Battocchio
           buttons:
+            - name: About
+              url: /about/
             - name: Papers
               url: /papers/
             - name: CV
               url: /cv.pdf
-            - name: Design
-              url: /design/
-            - name: Projects
-              url: /projects/
-            # - name: Newsletter
-            #   url: https://pmichaillat.substack.com
+            #- name: Design
+            #  url: /design/
+            #- name: Projects
+            #  url: /projects/
             - name: Tags
               url: /tags/
             - name: Updates
