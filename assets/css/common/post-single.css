@@ -54,11 +54,11 @@
 }
 
 .post-content h3 {
-    font-size: 19px;    
+    font-size: 19px;
 }
 
 .post-content h4 {
-    font-size: 15px;    
+    font-size: 15px;
     font-weight: var(--semibold);
     text-transform: uppercase;
     color: var(--gray);
@@ -79,8 +79,8 @@
 .post-content a,
 .post-meta a,
 .toc a:hover {
-    box-shadow: 0 2px 0 var(--darkpurple);
-    color: currentColor; 
+    box-shadow: 0 2px 0 var(--darkgreen);
+    color: currentColor;
 }
 }
 
@@ -106,7 +106,7 @@
 .post-content ol,
 .post-content ul {
     padding-inline-start: 20px;
-    margin-left: var(--marginleft); 
+    margin-left: var(--marginleft);
 }
 
 .post-content li {
@@ -372,20 +372,20 @@ h4:hover .anchor,
 h5:hover .anchor,
 h6:hover .anchor {
     display: inline-flex;
-    color: var(--darkpurple);
+    color: var(--darkgreen);
     margin-inline-start: 10px;
     font-weight: 700;
     user-select: none;
-    box-shadow: 0 0px 0 var(--darkpurple);
+    box-shadow: 0 0px 0 var(--darkgreen);
 }
 
 
 a[href^="#fn:"], a[href^="#fnref:"] {
-     box-shadow: 0 0px 0 var(--darkpurple);
+     box-shadow: 0 0px 0 var(--darkgreen);
 }
 
 a[href^="#fn:"]:hover, a[href^="#fnref:"]:hover {
-    color: var(--darkpurple);
+    color: var(--darkgreen);
 }
 
 .paginav {
