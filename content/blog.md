@@ -4,6 +4,7 @@
 
     - In other conference related news, the AEJMC schedule posted and I'm looking forward to talking about my work and interests in Philly. In addition to participating in the Job Hub, you can catch me at the following sessions:
 
+
         - **Thursday, August 8** from **8:30 to 10 a.m.**
             - Panel Communication Technology and Communicating Science, Health, Environment and Risk Divisions: PFR Panel Session
             - *Using Technology to Increase Academic Productivity: Managing Time, Project, and Collaboration*
