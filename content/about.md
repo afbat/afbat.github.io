@@ -6,7 +6,8 @@ Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comart
 
 ### Research Interests
 
-My work centers on how rural and post-industrial community structures and collective identity shape hybrid civic storytelling networks, or how people come to share information that impacts civic life. I'm particularly interested in communities in the northern Great Lakes region that simultaneously grapple with economic changes and shifting media landscapes in the form of declining local news and inequities in digital access.
+My work focuses on how residents in rural, remote, and post-industrial North American communities learn about public issues amidst changing technology, digital access disparities, and declining local news. This includes how critical information is produced and circulated by non-news actors, like non-profits, local governments, and municipal services. My research highlights the role of place identity in critical information access and dissemination, particularly in the northern Great Lakes region.
+
 <br><br>
 I love mixing ethnographic and computational methods to tackle these questions.
 
