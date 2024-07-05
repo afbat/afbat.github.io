@@ -2,7 +2,7 @@
 - **July 2024:**
     - Recently back from ICA (and feeding kangaroos) in Australia. My co-authors and I were awarded a Top Student-Led Paper by the Political Communication Division for our work on internet access and political participation across rural and urban communities in Michigan. It was amazing to present this work, as well integrate insights from my ongoing fieldwork to provide context for our survey findings. This presentation also gave me the opportunity to use the data-driven maps I've been building using ggplot, as I work through elements of my dissertation. It's these moments that make me particularly excited about doing mixed-methods work in that drawing connections and triangulating data from different angles paints a rich picture of not only what is happening by reasons as to why it might be happening.
 
-    In other conference related news, the AEJMC schedule posted and I'm looking forward to talking about my work and interests in Philly. In addition to participating in the Job Hub, you can catch me at the following sessions:
+    - In other conference related news, the AEJMC schedule posted and I'm looking forward to talking about my work and interests in Philly. In addition to participating in the Job Hub, you can catch me at the following sessions:
 
         **Thursday, August 8** from **8:30 to 10 a.m.** Panel
         Communication Technology and Communicating Science, Health, Environment and Risk Divisions: PFR Panel Session
