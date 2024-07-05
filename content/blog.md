@@ -4,22 +4,19 @@
 
     - In other conference related news, the AEJMC schedule posted and I'm looking forward to talking about my work and interests in Philly. In addition to participating in the Job Hub, you can catch me at the following sessions:
 
-        - **Thursday, August 8** from **8:30 to 10 a.m.**
-            Panel Communication Technology and Communicating Science, Health, Environment and Risk Divisions: PFR Panel Session
+        **Thursday, August 8** from **8:30 to 10 a.m.**
+        Panel Communication Technology and Communicating Science, Health, Environment and Risk Divisions: PFR Panel Session
+            - *Using Technology to Increase Academic Productivity: Managing Time, Project, and Collaboration*
 
-        *Using Technology to Increase Academic Productivity: Managing Time, Project, and Collaboration*
-
-        - **Friday, August 9** from **10:30 a.m to noon**
+        **Friday, August 9** from **10:30 a.m to noon**
         Communication Theory and Methodology Division: High Density Refereed Research Paper Session
+            - *The Multidimensionality of being “Rural”: Geography, Media Use, and Mental Health*
+                - Taewoo Kang, Ava Francesca Battocchio, Chuqing Dong, and Kjerstin Thorson (Michigan State)
 
-        *The Multidimensionality of being “Rural”: Geography, Media Use, and Mental Health*
-            Taewoo Kang, Ava Francesca Battocchio, Chuqing Dong, and Kjerstin Thorson (Michigan State)
-
-        - **Saturday, August 10** from **10:30 a.m. to noon**
+        **Saturday, August 10** from **10:30 a.m. to noon**
         Community Journalism Interest Group (COMJIG): Scholar-to-Scholar (Poster) Paper Refereed Research Paper Session
-
-        * Remoteness and Rural News: A Computational-Ethnographic Approach to Local News on Facebook in Michigan’s Upper Peninsula *
-            Ava Francesca Battocchio, Brandi Stover, Jean Hardy, and Kjerstin Thorson (Michigan State)
+            - *Remoteness and Rural News: A Computational-Ethnographic Approach to Local News on Facebook in Michigan’s Upper Peninsula*
+                - Ava Francesca Battocchio, Brandi Stover, Jean Hardy, and Kjerstin Thorson (Michigan State)
 
 - **May 2024:**
      AEJMC decision day. This year I was 2/2 with Extended Abstracts getting accepted to Communication Theory and Methods and Community Journalism. I'm super grateful to my co-authors for the opportunity to collaborate with them. I'm also exceptionally proud of the EA going to Community Journalism, which features as second author Brandi Stover, my undergraduate research mentee. It's going to be a busy summer with diss fieldwork, Australia for ICA, and now Philly for AEJMC. Also had an abstract with the NSF accepted to AOIR- unsure if I will be heading to England in the fall due to other possible obligations, including that I am officially on the job market for Fall 2025! <br><br>
