@@ -8,7 +8,8 @@
         </div>
     </div>
     <div>
-        Hiya! My name is Ava Francesca and I'm an <a href="https://comartsci.msu.edu/our-people/ava-francesca-battocchio">Information and Media</a> PhD Candidate and University Enrichment Fellow in the <a href="https://comartsci.msu.edu/departments/advertising-public-relations">Department of Advertising and Public Relations</a> at Michigan State University. I am under the advisement of Dr. <a href="https://comartsci.msu.edu/our-people/kjerstin-thorson">Kjerstin Thorson</a>.
+        Hiya! My name is Ava Francesca and I'm an <a href="https://comartsci.msu.edu/our-people/ava-francesca-battocchio">Information and Media</a> PhD Candidate and University Enrichment Fellow in the <a href="https://comartsci.msu.edu/departments/advertising-public-relations">Department of Advertising and Public Relations</a> at Michigan State University.
+        I am under the advisement of Dr. <a href="https://comartsci.msu.edu/our-people/kjerstin-thorson">Kjerstin Thorson</a>.
 
         <h3>Research Interests</h3>
 
