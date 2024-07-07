@@ -47,7 +47,7 @@ Previous creative and activist work includes collaborating with and coordinating
    <div>
         When I'm not studying, my interests include reading, public history and industrial heritage(think “grains and trains”), learning Brazilian Portuguese and practicing with my friends, being in nature, photography, and listening to music (which includes building A LOT of <a href="https://open.spotify.com/user/eastcoastava?si=6a12290348bf4718">Spotify playlists</a>).
         <br><br>
-        I really enjoy tinkering around with computers and programming languages when I'm not using them for work. If given the chance, I will heavily proselytize R while trying to convince you to convert to a Zotero-Rmarkdown/Quarto note-taking workflow and to turn that old MacBook into a dedicated Linux machine (sorry in advance). I've been really into pairing automation and building Apple Shortcuts lately.
+        I really enjoy tinkering around with computers and programming languages when I'm not using them for work. If given the chance, I will heavily proselytize R while trying to convince you to convert to a Zotero-Rmarkdown/Quarto note-taking workflow and to turn that old MacBook into a dedicated Linux machine (sorry in advance). I've been really into building Apple Shortcuts lately.
         <br><br>
         I also spend a lot of time in "The Retirement Community" which consists of 2 sassy geriatric cats, nicknamed "The Grandparents", and the botanic garden in my house.
     </div>
