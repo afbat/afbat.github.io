@@ -11,8 +11,15 @@
         Hiya! My name is Ava Francesca and I'm an <a href="https://comartsci.msu.edu/our-people/ava-francesca-battocchio">Information and Media</a> PhD Candidate and University Enrichment Fellow in the <a href="https://comartsci.msu.edu/departments/advertising-public-relations">Department of Advertising and Public Relations</a> at Michigan State University. I am under the advisement of Dr. <a href="https://comartsci.msu.edu/our-people/kjerstin-thorson">Kjerstin Thorson</a>.
         <br>
         <h3>Research Interests</h3>
-        My work focuses on how residents in rural, remote, and post-industrial North American communities learn about public issues amidst changing technology, digital access disparities, and declining local news. This includes how critical information is produced and circulated by non-news actors, like non-profits, local governments, and municipal services. <br><br> My research highlights the role of place identity in critical information access and dissemination, particularly in the northern Great Lakes region. My dissertation examines this within the regional context of Michigan's remote Upper Peninsula and critical health and safety information.  I have been conducting fieldwork in the region since Summer 2022.<br><br>
-        I love mixing ethnographic and computational methods to tackle these questions.
+        My work focuses on how residents in rural, remote, and post-industrial North American communities learn about public issues amidst changing technology, digital access disparities, and declining local news. This includes how critical information is produced and circulated by non-news actors, like non-profits, local governments, and municipal services. <br><br> My research highlights the role of place identity in critical information access and dissemination, particularly in the northern Great Lakes region. My dissertation examines this within the regional context of Michigan's remote Upper Peninsula(UP) and critical health and safety information.  <br><br>
+        I love mixing ethnographic and computational methods to tackle these questions. I have been conducting fieldwork in the UP since Summer 2022. I pair these insights with textual analysis of digital trace data, such as Facebook posts, as well as spatial visualization (using R and ggplot) of public datasets and trace data.
+    </div>
+    <div style="overflow: hidden;">
+    <div style="float: right; margin: 0 0 10px 10px; width: 30%;">
+        <img src="/fccdata.png" style="width: 100%;" />
+        <div style="text-align: center; font-size: 14px; font-style: italic;">
+            Visualization of Federal Communication Commission's broadband data using ggplot
+        </div>
     </div>
 </div>
 
