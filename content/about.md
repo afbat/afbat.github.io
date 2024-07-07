@@ -9,15 +9,15 @@
     </div>
     <div>
         Hiya! My name is Ava Francesca and I'm an <a href="https://comartsci.msu.edu/our-people/ava-francesca-battocchio">Information and Media</a> PhD Candidate and University Enrichment Fellow in the <a href="https://comartsci.msu.edu/departments/advertising-public-relations">Department of Advertising and Public Relations</a> at Michigan State University. I am under the advisement of Dr. <a href="https://comartsci.msu.edu/our-people/kjerstin-thorson">Kjerstin Thorson</a>.
+
+        <h3>Research Interests</h3>
+
+        My work focuses on how residents in rural, remote, and post-industrial North American communities learn about public issues amidst changing technology, digital access disparities, and declining local news. This includes how critical information is produced and circulated by non-news actors, like non-profits, local governments, and municipal services. My research highlights the role of place identity in critical information access and dissemination, particularly in the northern Great Lakes region.
+
+        I love mixing ethnographic and computational methods to tackle these questions.
+
     </div>
 </div>
-
-### Research Interests
-
-My work focuses on how residents in rural, remote, and post-industrial North American communities learn about public issues amidst changing technology, digital access disparities, and declining local news. This includes how critical information is produced and circulated by non-news actors, like non-profits, local governments, and municipal services. My research highlights the role of place identity in critical information access and dissemination, particularly in the northern Great Lakes region.
-
-<br><br>
-I love mixing ethnographic and computational methods to tackle these questions.
 
 <div class="thinline"></div>
 
@@ -39,10 +39,6 @@ Previous creative and activist work includes collaborating with and coordinating
 
 ### Hobbies
 
-When I’m is not studying, my interests include volunteering as a public history and industrial heritage tour guide(think “grains and trains”), social activism, rail-fanning, biking, alternative print media, sewing, and photography.
-
-I really enjoy tinkering around with computers and programming languages when I'm not using them for work. If given the chance, I will heavily proselytize R while trying to convince you to convert to a Zotero-Rmarkdown/Quarto notetaking workflow and to turn that old MacBook into a dedicated Linux machine (sorry in advance).
-
 <div style="overflow: hidden;">
     <div style="float: left; margin: 0 10px 10px 0; width: 40%;">
         <img src="/grandparents.png" style="width: 100%;" />
@@ -51,6 +47,10 @@ I really enjoy tinkering around with computers and programming languages when I'
         </div>
     </div>
     <div>
+        When I’m is not studying, my interests include volunteering as a public history and industrial heritage tour guide(think “grains and trains”), social activism, rail-fanning, biking, alternative print media, sewing, and photography.
+
+        I really enjoy tinkering around with computers and programming languages when I'm not using them for work. If given the chance, I will heavily proselytize R while trying to convince you to convert to a Zotero-Rmarkdown/Quarto notetaking workflow and to turn that old MacBook into a dedicated Linux machine (sorry in advance).
+
         I also spend a lot of time in what I call "The Retirement Community" which consists of 2 sassy geriatric cats, nicknamed "The Grandparents", and the botanic garden in my house.
     </div>
 </div>
