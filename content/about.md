@@ -1,6 +1,13 @@
 ### About Me
 
-<img src="/Battocchio-fieldwork.png" style="float: right; margin: 0 0 10px 10px; width: 40%;" />
+<div style="overflow: hidden;">
+    <div style="float: right; margin: 0 0 10px 10px; width: 40%;">
+        <img src="/Battocchio-fieldwork.png" style="width: 100%;" />
+    </div>
+    <div style="text-align: center; font-size: 14px; font-style: italic;">
+        Lake Superior during fieldwork in Michigan's Upper Peninsula | Winter 2023
+    </div>
+</div>
 
 Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comartsci.msu.edu/our-people/ava-francesca-battocchio) PhD Candidate and University Enrichment Fellow in the [Department of Advertising and Public Relations](https://comartsci.msu.edu/departments/advertising-public-relations) at Michigan State University. I am under the advisement of Dr. [Kjerstin Thorson](https://comartsci.msu.edu/our-people/kjerstin-thorson).
 
@@ -37,7 +44,10 @@ I really enjoy tinkering around with computers and programming languages when I'
 
 I also spend a lot of time in what I call "The Retirement Community" which consists of 2 sassy geriatric cats, nicknamed "The Grandparents", and the botanic garden in my house.
 
-<img src="/grandparents.png" style="float: center; margin: 0 0 10px 10px; width: 40%;" />
+<div style="text-align: center;">
+    <img src="/grandparents.png" style="margin: 0 0 10px 10px; width: 40%;" />
+    <div style="font-size: 14px; font-style: italic;">Pushkin (aka Grandpa) is 20 (right) and Captain (aka Grandma) is around 16 or 17 (left)</div>
+</div>
 
 <div class="thinline"></div>
 
