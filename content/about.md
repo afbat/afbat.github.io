@@ -48,7 +48,7 @@ Previous creative and activist work includes collaborating with and coordinating
     <div style="float: right; margin: 0 10px 10px 0; width: 40%;">
         <img src="/grandparents.png" style="width: 100%;" />
         <div style="text-align: center; font-size: 14px; font-style: italic;">
-            Pushkin (aka Grandpa) is 20 (right) and Captain (aka Grandma) is 16 or 17 (left)
+            "The Grandparents" <br>Pushkin (aka Grandpa) is 20 (right) and Captain (aka Grandma) is 16 or 17 (left)
         </div>
     </div>
     <div>
