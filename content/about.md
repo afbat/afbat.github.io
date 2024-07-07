@@ -3,13 +3,14 @@
 <div style="overflow: hidden;">
     <div style="float: right; margin: 0 0 10px 10px; width: 40%;">
         <img src="/Battocchio-fieldwork.png" style="width: 100%;" />
+        <div style="text-align: center; font-size: 14px; font-style: italic;">
+            Lake Superior during fieldwork in Michigan's Upper Peninsula | Winter 2023
+        </div>
     </div>
-    <div style="text-align: center; font-size: 14px; font-style: italic;">
-        Lake Superior during fieldwork in Michigan's Upper Peninsula | Winter 2023
+    <div>
+        Hiya! My name is Ava Francesca and I'm an <a href="https://comartsci.msu.edu/our-people/ava-francesca-battocchio">Information and Media</a> PhD Candidate and University Enrichment Fellow in the <a href="https://comartsci.msu.edu/departments/advertising-public-relations">Department of Advertising and Public Relations</a> at Michigan State University. I am under the advisement of Dr. <a href="https://comartsci.msu.edu/our-people/kjerstin-thorson">Kjerstin Thorson</a>.
     </div>
 </div>
-
-Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comartsci.msu.edu/our-people/ava-francesca-battocchio) PhD Candidate and University Enrichment Fellow in the [Department of Advertising and Public Relations](https://comartsci.msu.edu/departments/advertising-public-relations) at Michigan State University. I am under the advisement of Dr. [Kjerstin Thorson](https://comartsci.msu.edu/our-people/kjerstin-thorson).
 
 ### Research Interests
 
@@ -42,11 +43,16 @@ When I’m is not studying, my interests include volunteering as a public histor
 
 I really enjoy tinkering around with computers and programming languages when I'm not using them for work. If given the chance, I will heavily proselytize R while trying to convince you to convert to a Zotero-Rmarkdown/Quarto notetaking workflow and to turn that old MacBook into a dedicated Linux machine (sorry in advance).
 
-I also spend a lot of time in what I call "The Retirement Community" which consists of 2 sassy geriatric cats, nicknamed "The Grandparents", and the botanic garden in my house.
-
-<div style="text-align: center;">
-    <img src="/grandparents.png" style="margin: 0 0 10px 10px; width: 40%;" />
-    <div style="font-size: 14px; font-style: italic;">Pushkin (aka Grandpa) is 20 (right) and Captain (aka Grandma) is around 16 or 17 (left)</div>
+<div style="overflow: hidden;">
+    <div style="float: left; margin: 0 10px 10px 0; width: 40%;">
+        <img src="/grandparents.png" style="width: 100%;" />
+        <div style="text-align: center; font-size: 14px; font-style: italic;">
+            Pushkin (aka Grandpa) is 20 (right) and Captain (aka Grandma) is around 16 or 17 (left)
+        </div>
+    </div>
+    <div>
+        I also spend a lot of time in what I call "The Retirement Community" which consists of 2 sassy geriatric cats, nicknamed "The Grandparents", and the botanic garden in my house.
+    </div>
 </div>
 
 <div class="thinline"></div>
