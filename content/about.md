@@ -1,6 +1,6 @@
 ### About Me
 
-<img src="/Battocchio-fieldwork.png" alt="femme presenting human with brown hair and blond highlights, black thick-/Battocchio-fieldwork.png " alt="femme presenting human with brown hair and blond highlights, black thick framed glasses and black jacket and hoodie with frozen Lake Superior and blue grey sky in background" style="float: right; margin: 0 0 10px 10px; width: 40%;" />
+<img src="/Battocchio-fieldwork.png" style="float: right; margin: 0 0 10px 10px; width: 40%;" />
 
 Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comartsci.msu.edu/our-people/ava-francesca-battocchio) PhD Candidate and University Enrichment Fellow in the [Department of Advertising and Public Relations](https://comartsci.msu.edu/departments/advertising-public-relations) at Michigan State University. I am under the advisement of Dr. [Kjerstin Thorson](https://comartsci.msu.edu/our-people/kjerstin-thorson).
 
@@ -36,6 +36,8 @@ When I’m is not studying, my interests include volunteering as a public histor
 I really enjoy tinkering around with computers and programming languages when I'm not using them for work. If given the chance, I will heavily proselytize R while trying to convince you to convert to a Zotero-Rmarkdown/Quarto notetaking workflow and to turn that old MacBook into a dedicated Linux machine (sorry in advance).
 
 I also spend a lot of time in what I call "The Retirement Community" which consists of 2 sassy geriatric cats, nicknamed "The Grandparents", and the botanic garden in my house.
+
+<img src="/grandparents.png" style="float: center; margin: 0 0 10px 10px; width: 40%;" />
 
 <div class="thinline"></div>
 
