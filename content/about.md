@@ -4,7 +4,7 @@
     <div style="float: right; margin: 0 0 10px 10px; width: 30%;">
         <img src="/Battocchio-fieldwork.png" style="width: 100%;" />
         <div style="text-align: center; font-size: 14px; font-style: italic;">
-            Lake Superior during fieldwork in Michigan's Upper Peninsula
+            Lake Superior during fieldwork
         </div>
     </div>
     <div>
