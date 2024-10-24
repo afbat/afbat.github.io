@@ -97,8 +97,8 @@ params:
           url: https://github.com/afbat
         - name: LinkedIn
           url: https://www.linkedin.com/in/afbattocchio/
-        - name: Twitter
-          url: https://twitter.com/_afbat
+       # - name: Twitter
+       #   url: https://twitter.com/_afbat
         - name: ORCID
           url: https://orcid.org/0000-0003-4950-5782
 
