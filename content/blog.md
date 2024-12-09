@@ -1,4 +1,6 @@
 ### News and Updates
+- **December 2024:**
+    - I am officially off the academic job market! I'm over the moon to announce that I will be starting as a tenure-track Assistant Professor at Northwestern University in the Fall. I'm so excited to be joining the community at Medill and to be heading back to Chicago!
 - **July 2024:**
     - Recently back from ICA (and feeding kangaroos) in Australia. My co-authors and I were awarded a Top Student-Led Paper by the Political Communication Division for our work on internet access and political participation across rural and urban communities in Michigan. It was amazing to present this work, as well integrate insights from my ongoing fieldwork to provide context for our survey findings. This presentation also gave me the opportunity to use the data-driven maps I've been building using ggplot, as I work through elements of my dissertation. It's these moments that make me particularly excited about doing mixed-methods work in that drawing connections and triangulating data from different angles paints a rich picture of not only what is happening but reasons as to why it might be happening.
 
