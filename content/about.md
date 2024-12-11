@@ -8,7 +8,7 @@
         </div>
     </div>
     <div>
-        Hiya! My name is Ava Francesca! I'm an <a href="https://comartsci.msu.edu/our-people/ava-francesca-battocchio">Information and Media</a> PhD Candidate and University Enrichment Fellow in the <a href="https://comartsci.msu.edu/departments/advertising-public-relations">Department of Advertising and Public Relations</a> at Michigan State University and incoming Assistant Professor of Journalism at Northwestern University's Medill School of Journalism, Media, Integrated Marketing Communications. I am advised by Dr. <a href="https://comartsci.msu.edu/our-people/kjerstin-thorson">Kjerstin Thorson</a>.
+        Hiya! My name is Ava Francesca! I'm an <a href="https://comartsci.msu.edu/our-people/ava-francesca-battocchio">Information and Media</a> PhD Candidate and University Enrichment Fellow in the <a href="https://comartsci.msu.edu/departments/advertising-public-relations">Department of Advertising and Public Relations</a> at Michigan State University, where I am advised by Dr. Kjerstin Thorson. In Fall 2025, I will be joining Northwestern University's Medill School of Journalism, Media, Integrated Marketing Communications as an Assistant Professor of Journalism. <br><br>
         <br>
         <h3>Research Interests</h3>
         My work focuses on how residents in rural, remote, and post-industrial North American communities learn about public issues amidst changing technology, digital access disparities, and declining local news. This includes how critical information is produced and circulated by non-news actors, like non-profits, local governments, and municipal services, alongside news media.<br><br>
