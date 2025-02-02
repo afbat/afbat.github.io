@@ -56,13 +56,14 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Upload build artifact
-        uses: actions/upload-artifact@v4  # Updated version
+        uses: actions/upload-artifact@v4  # updated to v4
         with:
-          name: hugo-site
+          name: hugo-site-${{ github.run_id }}  # ensure unique artifact name
           path: ./public
+          overwrite: true  # allow overwriting old artifacts
 
       - name: Upload artifact for deployment
-        uses: actions/upload-pages-artifact@v2  # Latest available version
+        uses: actions/upload-pages-artifact@v2  # latest available version
         with:
           path: ./public
 
