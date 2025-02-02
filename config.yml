@@ -32,7 +32,7 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Ava Francesca Battocchio's research papers, cv, design projects, projects, and contact information."
+    description: "Ava Francesca is an Information & Media PhD Candidate at Michigan State University and incoming Assistant Professor at Northwestern University."
     author: Ava Francesca Battocchio
     env: production
     #googleAnalyticsID: "G-"
