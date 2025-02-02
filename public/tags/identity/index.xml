@@ -4,17 +4,16 @@
     <title>Identity on Ava Francesca Battocchio</title>
     <link>http://localhost:1313/tags/identity/</link>
     <description>Recent content in Identity on Ava Francesca Battocchio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.4</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/identity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/identity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Identity Driven Information Ecosystems</title>
       <link>http://localhost:1313/8/</link>
       <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/8/</guid>
       <description>This article presents the Identity Driven Information Ecosystem (IDIE) approach, showing how identity shapes information exposure and processing, illustrated by COVID-19.</description>
     </item>
-    
   </channel>
 </rss>

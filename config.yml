@@ -1,6 +1,8 @@
 baseURL: "https://afbat.co"
 title: Ava Francesca Battocchio
-paginate: 20
+pagination:
+  pagerSize: 5
+
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -56,33 +58,34 @@ params:
     UseHugoToc: true
     comments: false
     math: true
-    profileMode:
-          enabled: true
-          title: Ava Francesca Battocchio
-          subtitle: >
-           Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comartsci.msu.edu/our-people/ava-francesca-battocchio) PhD Candidate and University Enrichment Fellow in the [Department of Advertising and Public Relations](https://comartsci.msu.edu/departments/advertising-public-relations) at Michigan State University. In Fall 2025, I will be joining Northwestern University's Medill School of Journalism, Media, Integrated Marketing Communications as an Assistant Professor of Journalism.<br><br>
-           My research focuses on how residents in rural, remote, and post-industrial communities learn about public issues amidst changing technology, digital access disparities, and declining local news, highlighting the role of place identity on critical information access and dissemination.
-          imageUrl: "/picture.png"
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Ava Francesca Battocchio
-          buttons:
-            - name: About
-              url: /about/
-            - name: Papers
-              url: /papers/
-            - name: CV
-              url: /cv.pdf
-            #- name: Design
-            #  url: /design/
-            #- name: Projects
-            #  url: /projects/
-            - name: Tags
-              url: /tags/
-            - name: Updates
-              url: /blog/
 
-    socialIcons:
+    profileMode:
+        enabled: true
+        title: Ava Francesca Battocchio
+        subtitle: >
+          Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comartsci.msu.edu/our-people/ava-francesca-battocchio) PhD Candidate and University Enrichment Fellow in the [Department of Advertising and Public Relations](https://comartsci.msu.edu/departments/advertising-public-relations) at Michigan State University. In Fall 2025, I will be joining Northwestern University's Medill School of Journalism, Media, Integrated Marketing Communications as an Assistant Professor of Journalism.<br><br>
+          My research focuses on how residents in rural, remote, and post-industrial communities learn about public issues amidst changing technology, digital access disparities, and declining local news, highlighting the role of place identity on critical information access and dissemination.
+        imageUrl: "/picture.png"
+        imageWidth: 160
+        imageHeight: 160
+        imageTitle: Ava Francesca Battocchio
+        buttons:
+          - name: About
+            url: /about/
+          - name: Papers
+            url: /papers/
+          - name: CV
+            url: /cv.pdf
+          #- name: Design
+          #  url: /design/
+          #- name: Projects
+          #  url: /projects/
+          - name: Tags
+            url: /tags/
+          - name: Updates
+            url: /blog/
+
+    social:
         - name: CV
           url: /cv.pdf
         - name: Email
@@ -97,21 +100,23 @@ params:
           url: https://github.com/afbat
         - name: LinkedIn
           url: https://www.linkedin.com/in/afbattocchio/
-       # - name: Twitter
-       #   url: https://twitter.com/_afbat
+        #- name: Twitter
+        #  url: https://twitter.com/_afbat
         - name: ORCID
           url: https://orcid.org/0000-0003-4950-5782
 
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
+
     cover:
         hiddenInList: true
         hiddenInSingle: true
+
     label:
-      text: "Ava Francesca Battocchio"
-      icon: /favicon.ico
-      iconHeight: 18
+        text: "Ava Francesca Battocchio"
+        icon: /favicon.ico
+        iconHeight: 18
 
 markup:
     goldmark:
@@ -124,3 +129,4 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
+

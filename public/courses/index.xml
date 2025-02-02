@@ -4,17 +4,16 @@
     <title>Courses on Ava Francesca Battocchio</title>
     <link>http://localhost:1313/courses/</link>
     <description>Recent content in Courses on Ava Francesca Battocchio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.4</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/courses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research Methods for Account Planning</title>
       <link>http://localhost:1313/c1/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/c1/</guid>
       <description>description</description>
     </item>
-    
   </channel>
 </rss>

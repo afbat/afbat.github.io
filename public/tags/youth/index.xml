@@ -4,35 +4,30 @@
     <title>Youth on Ava Francesca Battocchio</title>
     <link>http://localhost:1313/tags/youth/</link>
     <description>Recent content in Youth on Ava Francesca Battocchio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.4</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/youth/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/youth/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter 11: Gen Z&#39;s civic engagement: news use, politics, and cultural engagement</title>
       <link>http://localhost:1313/4/</link>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/4/</guid>
       <description>This chapter explores Gen Z&amp;#39;s civic identities and digital media&amp;#39;s role in shaping their engagement with public life amid significant challenges.</description>
     </item>
-    
     <item>
       <title>Chapter 12: Gen Z&#39;s civic engagement: civic skills, political expression, and identity</title>
       <link>http://localhost:1313/5/</link>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/5/</guid>
       <description>Examining Gen Z&amp;#39;s evolving civic identity, socio-economic status, and digital media&amp;#39;s impact on political engagement and socialization.</description>
     </item>
-    
     <item>
       <title>“I Use Social Media as an Escape from All That” Personal Platform Architecture and the Labor of Avoiding News</title>
       <link>http://localhost:1313/3/</link>
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/3/</guid>
       <description>This study explores how U.S. young adults design their media worlds across platforms, impacting news use, based on 50 guided interviews on social media.</description>
     </item>
-    
   </channel>
 </rss>

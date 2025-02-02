@@ -4,17 +4,18 @@
     <title>Projects on Ava Francesca Battocchio</title>
     <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Ava Francesca Battocchio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.4</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NAME</title>
       <link>http://localhost:1313/p1/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/p1/</guid>
-      <description> </description>
+      <description>&lt;div class=&#34;thinline&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;thinline&#34;&gt;&lt;/div&gt;
+&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
     </item>
-    
   </channel>
 </rss>

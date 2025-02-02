@@ -2,180 +2,184 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://afbat.co/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/location/</loc>
+    <loc>http://localhost:1313/location/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/officehours/</loc>
+    <loc>http://localhost:1313/officehours/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/identity/</loc>
+    <loc>http://localhost:1313/tags/identity/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/8/</loc>
+    <loc>http://localhost:1313/8/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/information-exposure/</loc>
+    <loc>http://localhost:1313/tags/information-exposure/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/information-exposure-model/</loc>
+    <loc>http://localhost:1313/tags/information-exposure-model/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/political-information/</loc>
+    <loc>http://localhost:1313/tags/political-information/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/papers/</loc>
+    <loc>http://localhost:1313/papers/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/sites-of-communication/</loc>
+    <loc>http://localhost:1313/tags/sites-of-communication/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/communication-infrastructure/</loc>
+    <loc>http://localhost:1313/tags/communication-infrastructure/</loc>
     <lastmod>2024-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/facebook/</loc>
+    <loc>http://localhost:1313/tags/facebook/</loc>
     <lastmod>2024-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/local-communities/</loc>
+    <loc>http://localhost:1313/tags/local-communities/</loc>
     <lastmod>2024-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/local-news/</loc>
+    <loc>http://localhost:1313/tags/local-news/</loc>
     <lastmod>2024-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/nonprofits/</loc>
+    <loc>http://localhost:1313/tags/nonprofits/</loc>
     <lastmod>2024-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/social-media/</loc>
+    <loc>http://localhost:1313/tags/social-media/</loc>
     <lastmod>2024-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/7/</loc>
+    <loc>http://localhost:1313/7/</loc>
     <lastmod>2024-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/6/</loc>
+    <loc>http://localhost:1313/6/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/brand-attitudes/</loc>
+    <loc>http://localhost:1313/tags/brand-attitudes/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/brand-trust/</loc>
+    <loc>http://localhost:1313/tags/brand-trust/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/consumer-engagement/</loc>
+    <loc>http://localhost:1313/tags/consumer-engagement/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/corporate-social-responsibility-csr/</loc>
+    <loc>http://localhost:1313/tags/corporate-social-responsibility-csr/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/covid-19-pandemic/</loc>
+    <loc>http://localhost:1313/tags/covid-19-pandemic/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/csr-messages/</loc>
+    <loc>http://localhost:1313/tags/csr-messages/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/ethnographic/</loc>
+    <loc>http://localhost:1313/tags/ethnographic/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/p1/</loc>
+    <loc>http://localhost:1313/p1/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/4/</loc>
+    <loc>http://localhost:1313/4/</loc>
     <lastmod>2023-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/5/</loc>
+    <loc>http://localhost:1313/5/</loc>
     <lastmod>2023-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/civic-education/</loc>
+    <loc>http://localhost:1313/tags/civic-education/</loc>
     <lastmod>2023-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/civic-engagement/</loc>
+    <loc>http://localhost:1313/tags/civic-engagement/</loc>
     <lastmod>2023-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/civic-identity/</loc>
+    <loc>http://localhost:1313/tags/civic-identity/</loc>
     <lastmod>2023-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/digital-media/</loc>
+    <loc>http://localhost:1313/tags/digital-media/</loc>
     <lastmod>2023-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/formal-politics/</loc>
+    <loc>http://localhost:1313/tags/formal-politics/</loc>
     <lastmod>2023-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/gen-z/</loc>
+    <loc>http://localhost:1313/tags/gen-z/</loc>
     <lastmod>2023-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/news-use/</loc>
+    <loc>http://localhost:1313/tags/news-use/</loc>
     <lastmod>2023-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/political-engagement/</loc>
+    <loc>http://localhost:1313/tags/political-engagement/</loc>
     <lastmod>2023-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/political-socialization/</loc>
+    <loc>http://localhost:1313/tags/political-socialization/</loc>
     <lastmod>2023-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/youth/</loc>
+    <loc>http://localhost:1313/tags/youth/</loc>
     <lastmod>2023-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/design/</loc>
+    <loc>http://localhost:1313/design/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/d1/</loc>
+    <loc>http://localhost:1313/d1/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/3/</loc>
+    <loc>http://localhost:1313/3/</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/media-repertoires/</loc>
+    <loc>http://localhost:1313/tags/media-repertoires/</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/new-media/</loc>
+    <loc>http://localhost:1313/tags/new-media/</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/courses/</loc>
+    <loc>http://localhost:1313/courses/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/c1/</loc>
+    <loc>http://localhost:1313/c1/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/brand-authenticity/</loc>
+    <loc>http://localhost:1313/tags/brand-authenticity/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/2/</loc>
+    <loc>http://localhost:1313/2/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/social-media-advertising/</loc>
+    <loc>http://localhost:1313/tags/social-media-advertising/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/source-genuineness/</loc>
+    <loc>http://localhost:1313/tags/source-genuineness/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/source-trustworthiness/</loc>
+    <loc>http://localhost:1313/tags/source-trustworthiness/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/brand-relationships/</loc>
+    <loc>http://localhost:1313/tags/brand-relationships/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/brand-transparency/</loc>
+    <loc>http://localhost:1313/tags/brand-transparency/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/consumer-attitude/</loc>
+    <loc>http://localhost:1313/tags/consumer-attitude/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/cost-transparency/</loc>
+    <loc>http://localhost:1313/tags/cost-transparency/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/1/</loc>
+    <loc>http://localhost:1313/1/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/tags/production-transparency/</loc>
+    <loc>http://localhost:1313/tags/production-transparency/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://afbat.co/archive/</loc>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+  </url><url>
+    <loc>http://localhost:1313/archive/</loc>
   </url>
 </urlset>
