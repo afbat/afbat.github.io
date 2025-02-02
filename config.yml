@@ -22,16 +22,20 @@ menu:
           weight: 2
         #- name: Design
         #  url: /design/
-          weight: 3
+        #  weight: 3  
         #- name: Projects
         #  url: /projects/
-          weight: 4
+        #  weight: 4
         - name: About
           url: /about/
-          weight: 5
+          weight: 3  
         - name: Updates
           url: /blog/
-          weight: 6
+          weight: 4 git add config.yml
+git commit -m "Fixed duplicate weight values in menu"
+git push origin main
+ 
+
 
 params:
     description: "Ava Francesca is an Information & Media PhD Candidate at Michigan State University and incoming Assistant Professor at Northwestern University."
