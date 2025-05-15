@@ -1,4 +1,18 @@
 ### News and Updates
+
+- **May 2025:**
+    - In the homestretch of my PhD, with my defense scheduled and half my house packed for the move back to Chicago this summer. On the research front, couple of updates:
+      
+        - Couple of updates from our NSF team's work on local volunteer moderators:
+          
+            - Our AOIR paper dropped: Proferes, [N., Cotter, K., Thorson, K., **Battocchio, A. F.**, De, A., & Chang, C.-F. (2025). LOCALIZED VOLUNTEER MODERATION AND ITS DISCURSIVE CONSTRUCTION. AoIR Selected Papers of Internet Research. https://doi.org/10.5210/spir.v2024i0.14035](https://spir.aoir.org/ojs/index.php/spir/article/view/14035/11812)
+              
+            - Our paper from the second wave of the project was accepted to and presented by Ankolika at the News Futures Workshop at CHI 2025 in Yokohama last month: [Ankolika De, Kelley Cotter, **Ava Francesca Battocchio**, Marialina Antolini,Benji Davis, Nicholas Proferes, and Kjerstin Thorson. 2025. Volunteer Moderators’ Role in Facilitating News Flow in Local Groups.](https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/apd5873_psu_edu/EXdNyBiv089Ou_T82-R0ZboBXgiVKK2RbCQIkk7ZXChZ6Q?e=hcvSYs)
+         
+        - And in dissertation-adjacent work from the design portion of our Merit Network-funded project on rural perceptions of digital connectivity:
+          
+            - Our paper, which utilizes ethnographic insights from my fieldwork to inform design decisions, was accepted to ACM's Communities & Technology. I'll be sure to share the published conference proceedings when they are available: [Jean Hardy, Megan Gleason, and **Ava Francesca Battocchio.** 2025. Playing with Rural Design: Design Probe Failure & Community Disconnections.](https://2025.comtech.community)
+
 - **December 2024:**
     - I am officially off the academic job market! I'm over the moon to announce that I will be starting as a tenure-track Assistant Professor at Northwestern University in the Fall. I'm so excited to be joining the community at Medill and to be heading back to Chicago!
 - **July 2024:**
