@@ -5,7 +5,7 @@
       
         - Couple of updates from our NSF team's work on local volunteer moderators:
           
-            - Our AOIR paper dropped: <br> Proferes, [N., Cotter, K., Thorson, K., **Battocchio, A. F.**, De, A., & Chang, C.-F. (2025). LOCALIZED VOLUNTEER MODERATION AND ITS DISCURSIVE CONSTRUCTION. AoIR Selected Papers of Internet Research. https://doi.org/10.5210/spir.v2024i0.14035](https://spir.aoir.org/ojs/index.php/spir/article/view/14035/11812)
+            - Our AOIR paper dropped: <br> [Proferes, N., Cotter, K., Thorson, K., **Battocchio, A. F.**, De, A., & Chang, C.-F. (2025). LOCALIZED VOLUNTEER MODERATION AND ITS DISCURSIVE CONSTRUCTION. AoIR Selected Papers of Internet Research. https://doi.org/10.5210/spir.v2024i0.14035](https://spir.aoir.org/ojs/index.php/spir/article/view/14035/11812)
               
             - Our paper from the second wave of the project was accepted to and presented by Ankolika at the News Futures Workshop at CHI 2025 in Yokohama last month: <br> [Ankolika De, Kelley Cotter, **Ava Francesca Battocchio**, Marialina Antolini,Benji Davis, Nicholas Proferes, and Kjerstin Thorson. 2025. Volunteer Moderators’ Role in Facilitating News Flow in Local Groups.](https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/apd5873_psu_edu/EXdNyBiv089Ou_T82-R0ZboBXgiVKK2RbCQIkk7ZXChZ6Q?e=hcvSYs)
          
