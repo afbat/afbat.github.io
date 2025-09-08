@@ -1,0 +1,244 @@
+/* Northwestern Purple & White Color Theme */
+/* Complete CSS for assets/css/northwestern-theme.css */
+
+:root {
+    /* Northwestern Purple Palette */
+    --northwestern-purple: #4E2A84;        /* Main Northwestern Purple (Purple 100) */
+    --purple-dark: #401F68;                /* Purple 120 - Darker accent */
+    --purple-medium: #836EAA;              /* Purple 60 - Medium accent */
+    --purple-light: #B6ACD1;              /* Purple 30 - Light accent */
+    --purple-lightest: #E4E0EE;           /* Purple 10 - Lightest accent */
+    
+    /* Override existing green variables with purple */
+    --darkgreen: var(--northwestern-purple);      /* Primary purple for main accents */
+    --midgreen: var(--purple-medium);             /* Medium purple for hover states */
+    --lightgreen: var(--purple-light);            /* Light purple for backgrounds */
+    
+    /* Additional Northwestern Purple variants */
+    --darkpurple: var(--purple-dark);
+    --midpurple: var(--purple-medium);
+    --lightpurple: var(--purple-lightest);
+}
+
+/* Northwestern Purple Headers - Hierarchical Tints */
+h1,
+.post-title,
+.post-header h1,
+.entry-header h1,
+.page-header h1,
+.profile .profile_inner h1 {
+    color: var(--northwestern-purple) !important; /* Purple 100 - #4E2A84 */
+}
+
+h2,
+.entry-header h2,
+.archive-year-header {
+    color: var(--purple-dark) !important; /* Purple 120 - #401F68 */
+}
+
+h3,
+.archive-month-header {
+    color: var(--purple-medium) !important; /* Purple 60 - #836EAA */
+}
+
+h4 {
+    color: var(--purple-light) !important; /* Purple 30 - #B6ACD1 */
+}
+
+h5 {
+    color: #948CAD !important; /* Purple 50 - calculated between 60 and 30 */
+}
+
+h6 {
+    color: #A5A1BA !important; /* Purple 40 - calculated between 50 and 30 */
+}
+
+/* Navigation Active State */
+#menu .active {
+    border-bottom: 2px solid var(--northwestern-purple);
+}
+
+/* Social Icons Hover */
+.social-icons a:hover {
+    color: var(--northwestern-purple);
+}
+
+/* Post Entry Hover */
+.post-entry:hover {
+    border: 2px solid var(--purple-medium);
+}
+
+/* Links and Hover States */
+.post-content a,
+.post-meta a,
+.toc a:hover {
+    box-shadow: 0 2px 0 var(--northwestern-purple);
+}
+
+/* Footer Links */
+.footer a:hover {
+    border-bottom: 2px solid var(--northwestern-purple);
+}
+
+/* Button Hover States */
+.button:hover {
+    background: var(--purple-light);
+}
+
+.paginav a:hover {
+    background: var(--purple-light);
+}
+
+/* Post Tags */
+.post-tags a:hover {
+    background: var(--purple-light);
+}
+
+/* Terms/Tags Page */
+.terms-tags a:hover {
+    background: var(--purple-light);
+}
+
+/* Anchor Links */
+h1:hover .anchor,
+h2:hover .anchor,
+h3:hover .anchor,
+h4:hover .anchor,
+h5:hover .anchor,
+h6:hover .anchor {
+    color: var(--northwestern-purple);
+    box-shadow: 0 0px 0 var(--northwestern-purple);
+}
+
+/* Footnote Links */
+a[href^="#fn:"], a[href^="#fnref:"] {
+    box-shadow: 0 0px 0 var(--northwestern-purple);
+}
+
+a[href^="#fn:"]:hover, a[href^="#fnref:"]:hover {
+    color: var(--northwestern-purple);
+}
+
+/* Top Link Hover */
+.top-link:hover {
+    color: var(--northwestern-purple);
+}
+
+/* Tag Styling */
+.tag {
+    border-color: var(--northwestern-purple) !important;
+}
+
+.tag:hover {
+    background-color: var(--northwestern-purple) !important;
+    color: white !important;
+}
+
+/* Archive Elements */
+.archive-year,
+.archive-month {
+    color: var(--northwestern-purple) !important;
+}
+
+/* Search Results */
+.search-results .entry-header h2 {
+    color: var(--northwestern-purple) !important;
+}
+
+/* Table of Contents */
+.toc h4 {
+    color: var(--northwestern-purple) !important;
+}
+
+/* Code Block Headers */
+.highlight .filename {
+    color: var(--northwestern-purple) !important;
+}
+
+/* Profile Mode Styling */
+.profile .title {
+    color: var(--northwestern-purple) !important;
+}
+
+/* Navigation Link Hover */
+.nav .nav-link:hover,
+#menu a:hover {
+    color: var(--northwestern-purple) !important;
+}
+
+/* Page Navigation Links */
+.post-nav-link,
+.page-nav-link {
+    border-color: var(--northwestern-purple) !important;
+}
+
+.post-nav-link:hover,
+.page-nav-link:hover {
+    background-color: var(--northwestern-purple) !important;
+    color: white !important;
+}
+
+/* Pagination Links */
+.pagination a:hover {
+    background-color: var(--northwestern-purple) !important;
+    color: white !important;
+}
+
+/* Ensure White Backgrounds (Northwestern Brand Guideline) */
+.main {
+    background: white;
+}
+
+.post-entry {
+    background: white;
+}
+
+body {
+    background: white;
+}
+
+/* Blockquote Northwestern Styling */
+.post-content blockquote {
+    border-inline-start: 4px solid var(--northwestern-purple);
+}
+
+/* HR Northwestern Styling */
+.post-content hr {
+    background: var(--purple-light);
+}
+
+/* Dark Mode Overrides for Northwestern Colors */
+.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6,
+.dark .post-title,
+.dark .post-header h1,
+.dark .entry-header h1,
+.dark .entry-header h2,
+.dark .page-header h1 {
+    color: var(--purple-light) !important; /* Lighter purple for dark mode readability */
+}
+
+.dark .post-content a,
+.dark .post-meta a,
+.dark .toc a:hover {
+    box-shadow: 0 2px 0 var(--purple-light);
+}
+
+/* Custom Northwestern Purple Utility Classes */
+.northwestern-accent {
+    color: var(--northwestern-purple);
+}
+
+.northwestern-bg {
+    background-color: var(--northwestern-purple);
+    color: white;
+}
+
+.northwestern-border {
+    border-color: var(--northwestern-purple);
+}
+
+/* Northwestern Purple Gradient for Special Elements */
+.northwestern-gradient {
+    background: linear-gradient(135deg, var(--northwestern-purple), var(--purple-medium));
+    color: white;
+}

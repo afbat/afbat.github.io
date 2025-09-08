@@ -30,7 +30,7 @@ menu:
           weight: 4
  
 params:
-    description: "Ava Francesca is an Information & Media PhD Candidate at Michigan State University and incoming Assistant Professor at Northwestern University."
+    description: "Ava Francesca Battocchio is an Assistant Professor of Journalism at Northwestern University's Medill School, specializing in community information systems and rural media environments."
     author: Ava Francesca Battocchio
     env: production
     #googleAnalyticsID: "G-"
@@ -57,7 +57,7 @@ params:
         enabled: true
         title: Ava Francesca Battocchio
         subtitle: >
-          Hiya! My name is Ava Francesca and I'm an [Information and Media](https://comartsci.msu.edu/our-people/ava-francesca-battocchio) PhD Candidate and University Enrichment Fellow in the [Department of Advertising and Public Relations](https://comartsci.msu.edu/departments/advertising-public-relations) at Michigan State University. In Fall 2025, I will be joining Northwestern University's Medill School of Journalism, Media, Integrated Marketing Communications as an Assistant Professor of Journalism.<br><br>
+          Hiya! My name is Ava Francesca and I'm an Assistant Professor of Journalism at [Northwestern University's Medill School](https://www.medill.northwestern.edu/), where I specialize in community information systems and rural media environments. I completed my PhD in Information and Media from Michigan State University.<br><br>
           My research focuses on how residents in rural, remote, and post-industrial communities learn about public issues amidst changing technology, digital access disparities, and declining local news, highlighting the role of place identity on critical information access and dissemination.
         imageUrl: "/picture.png"
         imageWidth: 160
@@ -82,7 +82,7 @@ params:
         - name: CV
           url: /cv.pdf
         - name: Email
-          url: mailto:battocch@msu.edu
+          url: mailto:afbat@northwestern.edu
         #- name: Location
         #  url: /location/
         #- name: Office Hours
@@ -98,6 +98,7 @@ params:
         - name: ORCID
           url: https://orcid.org/0000-0003-4950-5782
     assets:
+        css: ["css/northwestern-theme.css"]
         disableHLJS: true
         disableScrollBarStyle: true
     cover:
