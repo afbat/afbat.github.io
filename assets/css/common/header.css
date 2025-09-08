@@ -67,7 +67,7 @@ body:not(.dark) #sun {
 }
 
 #menu .active {
-    border-bottom: 2px solid var(--darkgreen);
+    border-bottom: 2px solid var(--northwestern-purple);
 }
 
 .lang-switch li,

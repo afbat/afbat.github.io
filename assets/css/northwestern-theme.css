@@ -10,7 +10,7 @@
     --purple-lightest: #E4E0EE;           /* Purple 10 - Lightest accent */
     
     /* Override existing green variables with purple */
-    --darkgreen: var(--northwestern-purple);      /* Primary purple for main accents */
+    --northwestern-purple: var(--northwestern-purple);      /* Primary purple for main accents */
     --midgreen: var(--purple-medium);             /* Medium purple for hover states */
     --lightgreen: var(--purple-light);            /* Light purple for backgrounds */
     
