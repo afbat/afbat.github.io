@@ -2,16 +2,12 @@ baseURL: "https://afbat.co"
 title: Ava Francesca Battocchio
 pagination:
   pagerSize: 5
-
 theme: PaperMod
-
 enableInlineShortcodes: true
 enableRobotsTXT: true
 enableEmoji: true
-
 taxonomies:
     tag: tags
-
 menu:
     main:
         - name: Papers
@@ -31,12 +27,8 @@ menu:
           weight: 3  
         - name: Updates
           url: /blog/
-          weight: 4 git add config.yml
-git commit -m "Fixed duplicate weight values in menu"
-git push origin main
+          weight: 4
  
-
-
 params:
     description: "Ava Francesca is an Information & Media PhD Candidate at Michigan State University and incoming Assistant Professor at Northwestern University."
     author: Ava Francesca Battocchio
@@ -44,7 +36,6 @@ params:
     #googleAnalyticsID: "G-"
     DateFormat: "January 2006"
     hideFooter: true
-
     defaultTheme: dark
     disableThemeToggle: true
     ShowShareButtons: false
@@ -62,7 +53,6 @@ params:
     UseHugoToc: true
     comments: false
     math: true
-
     profileMode:
         enabled: true
         title: Ava Francesca Battocchio
@@ -88,7 +78,6 @@ params:
             url: /tags/
           - name: Updates
             url: /blog/
-
     social:
         - name: CV
           url: /cv.pdf
@@ -108,20 +97,16 @@ params:
         #  url: https://twitter.com/_afbat
         - name: ORCID
           url: https://orcid.org/0000-0003-4950-5782
-
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
-
     cover:
         hiddenInList: true
         hiddenInSingle: true
-
     label:
         text: "Ava Francesca Battocchio"
         icon: /favicon.ico
         iconHeight: 18
-
 markup:
     goldmark:
         renderer:
@@ -133,4 +118,3 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
-
