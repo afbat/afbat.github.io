@@ -89,6 +89,28 @@ h6 {
     background: var(--purple-light);
 }
 
+/* Profile Mode Buttons - Northwestern Purple Styling */
+.button {
+    border-color: var(--northwestern-purple) !important;
+}
+
+.button:hover {
+    background: var(--purple-light) !important;
+    border-color: var(--purple-medium) !important;
+}
+
+/* Profile page buttons specific styling */
+.profile .buttons .button {
+    border: 1px solid var(--northwestern-purple) !important;
+    color: var(--northwestern-purple) !important;
+}
+
+.profile .buttons .button:hover {
+    background: var(--northwestern-purple) !important;
+    color: white !important;
+    border-color: var(--northwestern-purple) !important;
+}
+
 /* Post Tags */
 .post-tags a:hover {
     background: var(--purple-light);
