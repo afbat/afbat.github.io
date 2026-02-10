@@ -20,40 +20,40 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
 <figure>
   <img src="/fieldwork/abandoned_tourist_cabins.jpeg" alt="Abandoned tourist cabins" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
 <figure>
   <img src="/fieldwork/tourist_cabin.jpg" alt="Tourist cabin" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
 <figure>
   <img src="/fieldwork/closed_for_season.jpg" alt="Closed for season sign" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
 <figure>
   <img src="/fieldwork/tourist_season.jpg" alt="Tourist season" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
 <figure>
   <img src="/fieldwork/motel_weather.jpg" alt="Motel weather sign" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
@@ -76,32 +76,32 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
 <figure>
   <img src="/fieldwork/quincy mine (1 of 1).jpg" alt="Quincy mine" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
 <figure>
   <img src="/fieldwork/quincy.JPG" alt="Quincy" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
 <figure>
   <img src="/fieldwork/pit_mine.jpg" alt="Pit mine" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
 <figure>
   <img src="/fieldwork/support_mining.JPG" alt="Support mining sign" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
@@ -132,16 +132,16 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
 <figure>
   <img src="/fieldwork/fire_tower.jpg" alt="Fire tower" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
 <figure>
   <img src="/fieldwork/cci.JPG" alt="CCI" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
@@ -172,8 +172,8 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
 <figure>
   <img src="/fieldwork/superior_beach.jpg" alt="Lake Superior beach" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
@@ -181,23 +181,23 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
   <img src="/fieldwork/crisp_point.jpg" alt="Crisp Point" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
     <strong>Crisp Point</strong><br>
-    [ADD CAPTION HERE]
+    
   </figcaption>
 </figure>
 
 <figure>
   <img src="/fieldwork/muskeg.jpg" alt="Muskeg landscape" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
 <figure>
   <img src="/fieldwork/alvar.jpg" alt="Alvar ecosystem" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
@@ -220,24 +220,24 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
 <figure>
   <img src="/fieldwork/community_hub_hockey.jpg" alt="Community hockey hub" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
 <figure>
   <img src="/fieldwork/snowmobilers.jpg" alt="Snowmobilers" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
 <figure>
   <img src="/fieldwork/fur_fun.jpg" alt="Fur and fun" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
@@ -252,11 +252,18 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
 <figure>
   <img src="/fieldwork/da_camp_cafe.JPG" alt="Da Camp Cafe" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
+<figure>
+  <img src="/fieldwork/house_cluster.jpg" alt="House clusters" style="width: 100%; height: auto;">
+  <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
+    <strong>Community Clusters</strong><br>
+    Many UP communities exist as what one resident described as "clusters of houses," creating issues when trying to plan programming between two counties. Institutional maps fail to capture lived community boundaries. Navigating this geography requires place-embedded cognitive models about where people actually gather and how they move through space, knowledge that remains largely invisible to external planning processes.
+  </figcaption>
+</figure>
 </div>
 
 ---
@@ -276,8 +283,8 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
 <figure>
   <img src="/fieldwork/yooper_strong.jpg" alt="Yooper Strong" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
@@ -300,8 +307,8 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
 <figure>
   <img src="/fieldwork/Hiawatha No. 1 (1 of 1).jpg" alt="Hiawatha train" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
@@ -324,18 +331,20 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
 <figure>
   <img src="/fieldwork/field_af.jpg" alt="Researcher in field" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>[Location Name]</strong><br>
-    [ADD CAPTION HERE - This appears to be you doing fieldwork!]
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
 <figure>
-  <img src="/fieldwork/house_cluster.jpg" alt="House clusters" style="width: 100%; height: auto;">
+  <img src="/fieldwork/fieldwork_camping.jpg" alt="Researcher in field" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>Community Clusters</strong><br>
-    Many UP communities exist as what one resident described as "clusters of houses," creating issues when trying to plan programming between two counties. Institutional maps fail to capture lived community boundaries. Navigating this geography requires place-embedded cognitive models about where people actually gather and how they move through space, knowledge that remains largely invisible to external planning processes.
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
+
+
 
 </div>
 
