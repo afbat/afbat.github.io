@@ -13,6 +13,6 @@ hidemeta: true
 <p><small><strong>Research & Funding:</strong> This public scholarship work is supported by the National Science Foundation under Grant Nos. IIS-2207834, IIS-2207835, and IIS-2207836, conducted in collaboration with researchers at Penn State, Arizona State, Colorado State, Michigan State, and Northwestern universities.</small></p>
     </section>
     <footer class="entry-footer">
-      <span>Fall 2025 · <em>NSF Public Scholarship Component</em> · <a href="/zine_selfprint.pdf">Download PDF</a> · <a href="/zine-printing/">Printing Instructions</a></span>
+      <span>Fall 2025 · <em>NSF Public Scholarship Component</em> · <a href="/zine_digital.pdf">Download Digital-Friendly PDF</a> · <a href="/zine_selfprint.pdf">Download Self-Print-Friendly PDF</a> · <a href="/zine-printing/">Printing Instructions</a></span>
     </footer>
 </article>
