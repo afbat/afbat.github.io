@@ -19,5 +19,4 @@ hidemeta: true
       <span>Fall 2025 · <em>NSF Public Scholarship Component</em> · <a href="/zine_selfprint.pdf">Download Self-Print Version PDF</a></span>
     </footer><br>
 
-<div style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border);">
 </div>
