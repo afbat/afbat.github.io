@@ -16,3 +16,40 @@ hidemeta: true
       <span>Fall 2025 · <em>NSF Public Scholarship Component</em> · <a href="/zine_digital.pdf">Download Digital-Friendly PDF</a> · <a href="/zine_selfprint.pdf">Download Self-Print-Friendly PDF</a> · <a href="/zine-printing/">Printing Instructions</a></span>
     </footer>
 </article>
+
+
+<article class="post-entry">
+    <header class="entry-header">
+      <h2>From Here to There: The History and Future of Chicago's Transportation</h2>
+    </header>
+    <section class="entry-content">
+      <p>Panel discussion on Chicago's transportation history and future development for the Chicago Council on Science and Technology.</p>
+    </section>
+    <footer class="entry-footer">
+      <span>2021 · <em>C2ST Panel</em> · <a href="https://www.youtube.com/watch?v=AdO9PRTMtoU&ab_channel=C2STTV">Watch Panel</a></span>
+    </footer>
+</article>
+
+<article class="post-entry">
+    <header class="entry-header">
+      <h2>Trolleys and Trouble: Chicago's Traction Wars</h2>
+    </header>
+    <section class="entry-content">
+      <p>Public history lecture on Chicago's contentious streetcar franchise battles and early public transit development.</p>
+    </section>
+    <footer class="entry-footer">
+      <span>2021 · <em>Chicago for Chicagoans</em> · <a href="https://www.facebook.com/chicagoforchicagoans/videos/214931620266978/">Watch Lecture</a></span>
+    </footer>
+</article>
+
+<article class="post-entry">
+    <header class="entry-header">
+      <h2>Advertise Judiciously: A History of Advertising in Chicago</h2>
+    </header>
+    <section class="entry-content">
+      <p>Public history lecture exploring the development of advertising industry and practices in Chicago.</p>
+    </section>
+    <footer class="entry-footer">
+      <span>2020 · <em>Chicago for Chicagoans</em> · <a href="https://www.facebook.com/chicagoforchicagoans/videos/302737330889160/">Watch Lecture</a></span>
+    </footer>
+</article>
