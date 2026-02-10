@@ -35,7 +35,7 @@ hidemeta: true
       <p>Feature on joining Northwestern's Medill School and research agenda examining rural information infrastructure and community storytelling networks.</p>
     </section>
     <footer class="entry-footer">
-      <span>2025 · <em>Medill News</em> · <a href="https://www.medill.northwestern.edu/news/2025/medills-newest-faculty-member-looks-to-explore-rural-media-ecosystems.html">Read Article</a></span>
+      <span>September 2025 · <em>Medill News</em> · <a href="https://www.medill.northwestern.edu/news/2025/medills-newest-faculty-member-looks-to-explore-rural-media-ecosystems.html">Read Article</a></span>
     </footer>
 </article>
 
