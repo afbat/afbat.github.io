@@ -46,7 +46,7 @@ Previous creative and activist work includes collaborating with and coordinating
         <br><br>
         I really enjoy tinkering around with computers and programming languages when I'm not using them for work. I absolutely love LaTeX and digital typesetting, and if given the chance, I will heavily proselytize R while trying to convince you to convert to a Zotero-Rmarkdown/Quarto note-taking workflow and to turn that old MacBook into a dedicated Linux machine (sorry in advance).
         <br><br>
-        I also spend a lot of time with my sassy geriatric cat, Captain (aka Grandma), and tending to the botanical garden in my house. Since moving back to Chicago, I spend a lot of time at the beach (in all seasons, but especially winter), enjoying the (second greatest) Great Lakes.
+        I also spend a lot of time with my sassy (and recently 'widowed') geriatric cat, Captain (aka Grandma), and tending to the botanical garden in my house. Since moving back to Chicago, I spend a lot of time at the beach (in all seasons, but especially winter), enjoying the (second greatest) Great Lakes.
     </div>
 </div>
 
