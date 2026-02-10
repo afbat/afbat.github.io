@@ -3,10 +3,6 @@ title: "How to Print Your Zine"
 hidemeta: true
 ---
 
-<img src="/zine_printed.png" alt="Photo of example of self-printed zine on bulletin board next to AF's office" style="max-width: 600px; border: 1px solid #ddd; margin: 1.5rem 0;">
-
-
-
 ### Printing Instructions
 
 Follow these steps to print your own copy of the **Local Online Community Moderation** zine.
@@ -39,6 +35,9 @@ Some pages may appear upside down in the preview—**this is intentional**. The 
 3. Staple along the spine (optional but recommended)
 
 Your zine is ready to read!
+
+
+<img src="/zine_printed.png" alt="Photo of example of self-printed zine on bulletin board next to AF's office" style="max-width: 600px; border: 1px solid #ddd; margin: 1.5rem 0;">
 
 ---
 
