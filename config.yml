@@ -73,6 +73,8 @@ params:
             url: /about/
           - name: Papers
             url: /papers/
+          - name: Public Scholarship
+            url: /public-scholarship/
           - name: CV
             url: /cv.pdf
           #- name: Design
