@@ -12,7 +12,7 @@
     <footer class="entry-footer">
       <span>
         {{ .Date.Format "January 2006" }}
-        {{ with .Params.editPost.Text }} · <em>{{ . }}</em> · {{ end }}
+        {{ with .Params.editPost.Text }} · <strong><em>{{ . }}</em></strong> · {{ end }}
         {{ range $index, $author := .Params.author }}{{ if $index }}, {{ end }}{{ if eq $author "Ava Francesca Battocchio" }}<strong>{{ $author }}</strong>{{ else }}{{ $author }}{{ end }}{{ end }}
       </span>
     </footer>
