@@ -12,13 +12,13 @@ menu:
     main:
         - name: Papers
           url: /papers/
-          weight: 1
+          weight: 2
         - name: Public Scholarship
           url: /public-scholarship/
-          weight: 2
+          weight: 3
         - name: CV
           url: CV.pdf/
-          weight: 3
+          weight: 4
         #- name: Design
         #  url: /design/
         #  weight: 3  
@@ -27,7 +27,7 @@ menu:
         #  weight: 4
         - name: About
           url: /about/
-          weight: 4  
+          weight: 1  
         - name: Updates
           url: /blog/
           weight: 5
