@@ -13,11 +13,11 @@ menu:
         - name: Papers
           url: /papers/
           weight: 1
-        - name: Papers
-          url: /papers/
-          weight: 2
         - name: Public Scholarship
           url: /public-scholarship/
+          weight: 2
+        - name: CV
+          url: CV.pdf/
           weight: 3
         #- name: Design
         #  url: /design/
