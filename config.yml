@@ -57,8 +57,8 @@ params:
         enabled: true
         title: Ava Francesca Battocchio
         subtitle: >
-          Hiya! My name is Ava Francesca and I'm an Assistant Professor of Journalism at [Northwestern University's Medill School](https://www.medill.northwestern.edu/), where I specialize in community information systems and rural media environments. I completed my PhD in Information and Media from Michigan State University in 2025.<br><br>
-          My research focuses on how residents in rural, remote, and post-industrial communities learn about public issues amidst changing technology, digital access disparities, and declining local news, highlighting the role of place identity on critical information access and dissemination.
+            Hiya! My name is Ava Francesca and I'm an Assistant Professor of Journalism at [Northwestern University's Medill School](https://www.medill.northwestern.edu/), where I specialize in community information systems and rural media environments. I completed my PhD in Information and Media from Michigan State University in 2025.<br><br>
+            My research focuses on how residents in rural, remote, and post-industrial communities learn about public issues amidst changing technology, digital access disparities, and shifting local news environments. Through this work, I examine how place identity shapes critical information access and dissemination.
         imageUrl: "/picture.png"
         imageWidth: 160
         imageHeight: 160
