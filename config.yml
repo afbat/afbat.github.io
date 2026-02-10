@@ -85,7 +85,7 @@ params:
             url: /tags/
           - name: Updates
             url: /blog/
-    social:
+    socialIcons:
         - name: CV
           url: /cv.pdf
         - name: Email
