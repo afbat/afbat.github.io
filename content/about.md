@@ -8,7 +8,7 @@
         </div>
     </div>
     <div>
-        Hiya! My name is Ava Francesca! I'm an Assistant Professor of Journalism at <a href="https://www.medill.northwestern.edu/directory/faculty/af-battocchio.html">Northwestern University's Medill School of Journalism, Media, Integrated Marketing Communications</a>. I completed my PhD in Information and Media from Michigan State University in 2025, where I was advised by Dr. Kjerstin Thorson.<br>
+        Hiya! My name is Ava Francesca! I'm an Assistant Professor of Journalism at <a href="https://www.medill.northwestern.edu/directory/faculty/af-battocchio.html">Northwestern University's Medill School of Journalism, Media, Integrated Marketing Communications</a>. I completed my PhD in Information and Media from Michigan State University in 2025 (STEM-designated), where I was advised by Dr. Kjerstin Thorson.<br>
         <br>
         <h3>Research Interests</h3>
         My work focuses on how residents in rural, remote, and post-industrial communities learn about public issues amidst changing technology, digital access disparities, and shifting local news environments. This includes how critical information is produced and circulated by non-news actors—like non-profits, local governments, and municipal services—alongside news media.<br><br>
