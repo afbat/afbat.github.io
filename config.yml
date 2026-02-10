@@ -32,9 +32,12 @@ menu:
         - name: Media
           url: /media/
           weight: 5
+        -name: Fieldwork Fotos
+          url: /fieldwork/
+          weight: 6
         - name: Updates
           url: /blog/
-          weight: 6
+          weight: 7
  
 params:
     description: "Ava Francesca Battocchio is an Assistant Professor of Journalism at Northwestern University's Medill School, specializing in community information systems and rural media environments."

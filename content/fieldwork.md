@@ -1,5 +1,5 @@
 ---
-title: "From the Field"
+title: "Fieldwork Fotos"
 description: "Visual documentation from Michigan's Upper Peninsula"
 hidemeta: true
 ---
