@@ -1,15 +1,18 @@
-/* Northwestern Purple & White Color Theme */
+/* Northwestern Purple & White Color Theme - Light Mode Only */
 
 :root {
     /* Northwestern Purple Palette */
     --northwestern-purple: #4E2A84;
     --purple-dark: #401F68;
-    --purple-medium: #836EAA;
-    --purple-light: #B6ACD1;
-    --purple-lightest: #E4E0EE;
+    --purple-medium: #5C4A7D;  /* Darker medium for better contrast */
 }
 
-/* LINKS - Make them visible and purple */
+/* Hide theme toggle button */
+#theme-toggle {
+    display: none !important;
+}
+
+/* LINKS - Dark purple for visibility */
 a {
     color: var(--northwestern-purple);
     text-decoration: none;
@@ -30,7 +33,7 @@ a:hover {
     box-shadow: 0 2px 0 var(--purple-dark);
 }
 
-/* Northwestern Purple Headers */
+/* Northwestern Purple Headers - All darker for visibility */
 h1, .post-title, .entry-header h1 {
     color: var(--northwestern-purple) !important;
 }
@@ -40,24 +43,28 @@ h2, .entry-header h2 {
 }
 
 h3 {
-    color: var(--purple-medium) !important;
+    color: var(--northwestern-purple) !important;
 }
 
 h4 {
-    color: var(--purple-light) !important;
+    color: var(--purple-medium) !important;
 }
 
 h5 {
-    color: #948CAD !important;
+    color: var(--purple-medium) !important;
 }
 
 h6 {
-    color: #A5A1BA !important;
+    color: var(--purple-medium) !important;
 }
 
 /* Navigation Active State */
 #menu .active {
     border-bottom: 2px solid var(--northwestern-purple);
+}
+
+#menu a:hover {
+    color: var(--northwestern-purple) !important;
 }
 
 /* Social Icons */
@@ -80,23 +87,15 @@ h6 {
     color: white !important;
 }
 
-/* Theme Toggle - Make it purple */
-#theme-toggle {
-    color: var(--northwestern-purple);
-}
-
-#theme-toggle:hover {
-    color: var(--purple-dark);
-}
-
 /* Post Entry Hover */
 .post-entry:hover {
-    border: 2px solid var(--purple-medium);
+    border: 2px solid var(--northwestern-purple);
 }
 
 /* Tags */
 .tag {
     border-color: var(--northwestern-purple) !important;
+    color: var(--northwestern-purple) !important;
 }
 
 .tag:hover {
@@ -104,84 +103,10 @@ h6 {
     color: white !important;
 }
 
-/* DARK MODE - Better contrast and visibility */
-.dark a {
-    color: #B6ACD1; /* Lighter purple for dark backgrounds */
-}
-
-.dark a:hover {
-    color: #E4E0EE; /* Even lighter on hover */
-}
-
-.dark .post-content a {
-    color: #B6ACD1;
-    box-shadow: 0 1px 0 #B6ACD1;
-}
-
-.dark .post-content a:hover {
-    color: #E4E0EE;
-    box-shadow: 0 2px 0 #E4E0EE;
-}
-
-.dark h1, .dark .post-title, .dark .entry-header h1 {
-    color: #E4E0EE !important; /* Much lighter for readability */
-}
-
-.dark h2, .dark .entry-header h2 {
-    color: #B6ACD1 !important;
-}
-
-.dark h3 {
-    color: #836EAA !important;
-}
-
-.dark h4, .dark h5, .dark h6 {
-    color: #B6ACD1 !important;
-}
-
-.dark .profile .buttons .button {
-    border-color: #B6ACD1 !important;
-    color: #B6ACD1 !important;
-}
-
-.dark .profile .buttons .button:hover {
-    background: #B6ACD1 !important;
-    color: #1e1e1e !important;
-}
-
-.dark #theme-toggle {
-    color: #B6ACD1;
-}
-
-.dark #theme-toggle:hover {
-    color: #E4E0EE;
-}
-
-.dark .tag {
-    border-color: #B6ACD1 !important;
-}
-
-.dark .tag:hover {
-    background-color: #B6ACD1 !important;
-    color: #1e1e1e !important;
-}
-
-/* Navigation hover */
-#menu a:hover {
-    color: var(--northwestern-purple) !important;
-}
-
-.dark #menu a:hover {
-    color: #B6ACD1 !important;
-}
-
 /* Pagination */
 .paginav a:hover {
-    background: var(--purple-lightest);
-}
-
-.dark .paginav a:hover {
-    background: rgba(182, 172, 209, 0.2);
+    background: var(--northwestern-purple);
+    color: white;
 }
 
 /* Blockquotes */
@@ -189,6 +114,16 @@ h6 {
     border-inline-start: 4px solid var(--northwestern-purple);
 }
 
-.dark .post-content blockquote {
-    border-inline-start: 4px solid #B6ACD1;
+/* Footer year/copyright */
+.footer span {
+    color: var(--purple-medium);
+}
+
+/* Ensure light background */
+body {
+    background: white !important;
+}
+
+.main {
+    background: white !important;
 }
