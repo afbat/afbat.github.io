@@ -6,7 +6,11 @@ hidemeta: true
 
 ### About This Work
 
+<strong>Work in Progress (Many captions forthcoming) </strong>
+
 These photographs document fieldwork in Michigan's Upper Peninsula spanning over a decade. Earlier photos (2013-2017) were captured digitally during initial explorations of the region that informed my research interests. Formal dissertation fieldwork (2022-2024) focused on rural information ecosystems and was documented on film using a Nikon F2 with Kodak Ektar 100, supplemented by digital documentation with an iPhone for field notes and rapid capture.
+
+
 
 ---
 ### Tourism & Seasonal Economy
