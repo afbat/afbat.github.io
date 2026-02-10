@@ -53,6 +53,7 @@ params:
     UseHugoToc: true
     comments: false
     math: true
+    hidemeta: true
     profileMode:
         enabled: true
         title: Ava Francesca Battocchio
