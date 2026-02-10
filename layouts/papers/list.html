@@ -1,1 +1,23 @@
 
+{{- define "main" }}
+{{- $pages := .Pages }}
+<main class="list">
+  {{- range $pages }}
+  <article class="post-entry">
+    <header class="entry-header">
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    </header>
+    <section class="entry-content">
+      <p>{{ .Summary | plainify | htmlUnescape }}</p>
+    </section>
+    <footer class="entry-footer">
+      <span>
+        {{ .Date.Format "January 2006" }}
+        {{ with .Params.editPost.Text }} · <em>{{ . }}</em>{{ end }}
+        {{ range $index, $author := .Params.author }}{{ if $index }}, {{ end }}{{ $author }}{{ end }}
+      </span>
+    </footer>
+  </article>
+  {{- end }}
+</main>
+{{- end }}
