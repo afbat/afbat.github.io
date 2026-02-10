@@ -80,14 +80,16 @@ params:
             url: /public-scholarship/
           - name: CV
             url: /cv.pdf
+          - name: Media
+            url: /media/
           #- name: Design
           #  url: /design/
           #- name: Projects
           #  url: /projects/
-          - name: Tags
-            url: /tags/
           - name: Updates
             url: /blog/
+          - name: Tags
+            url: /tags/
     socialIcons:
         #- name: CV
         #  url: /cv.pdf
