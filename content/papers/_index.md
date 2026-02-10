@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Papers"
 description: "Journal articles and book chapters by Ava Francesca Battocchio."
 hidemeta: true
 ---
