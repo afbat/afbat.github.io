@@ -32,7 +32,7 @@ menu:
         - name: Media
           url: /media/
           weight: 5
-        -name: Fieldwork Fotos
+        - name: Fieldwork Fotos
           url: /fieldwork/
           weight: 6
         - name: Updates
