@@ -41,7 +41,7 @@ Previous creative and activist work includes collaborating with and coordinating
     <div style="float: right; margin: 0 10px 10px 0; width: 40%;">
         <img src="/grandparents.png" style="width: 100%;" />
         <div style="text-align: center; font-size: 14px; font-style: italic;">
-            The 'Grandparents': Captain, ~18 (left) and Pushkin, 21 (right)  
+            The 'Grandparents': <br> Captain, ~18 (left) and Pushkin, 20 (right) in Summer 2024  
         </div>
     </div>
    <div>
