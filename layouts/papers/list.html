@@ -1,6 +1,11 @@
 {{- define "main" }}
 {{- $pages := .Pages }}
 <main class="list">
+  {{- if .Content }}
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+  {{- end }}
   {{- range $pages }}
   <article class="post-entry">
     <header class="entry-header">
