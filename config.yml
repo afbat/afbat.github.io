@@ -17,7 +17,7 @@ menu:
           url: /public-scholarship/
           weight: 3
         - name: CV
-          url: CV.pdf/
+          url: /cv.pdf
           weight: 4
         #- name: Design
         #  url: /design/
