@@ -118,8 +118,8 @@ params:
         hiddenInSingle: true
     label:
         text: "Ava Francesca Battocchio"
-        icon: /favicon.ico
-        iconHeight: 18
+        #icon: /favicon.ico
+        #iconHeight: 18
 markup:
     goldmark:
         renderer:
