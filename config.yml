@@ -11,6 +11,9 @@ taxonomies:
     tag: tags
 menu:
     main:
+        - name: About
+          url: /about/
+          weight: 1
         - name: Papers
           url: /papers/
           weight: 2
@@ -26,12 +29,12 @@ menu:
         #- name: Projects
         #  url: /projects/
         #  weight: 4
-        - name: About
-          url: /about/
-          weight: 1  
+        - name: Media
+          url: /media/
+          weight: 5
         - name: Updates
           url: /blog/
-          weight: 5
+          weight: 6
  
 params:
     description: "Ava Francesca Battocchio is an Assistant Professor of Journalism at Northwestern University's Medill School, specializing in community information systems and rural media environments."
