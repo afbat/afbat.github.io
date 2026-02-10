@@ -1,8 +1,3 @@
----
-title: ""
-hideMeta: true
----
-
 ### About Me
 
 <div style="overflow: hidden;">
