@@ -3,7 +3,7 @@ title: "How to Print Your Zine"
 hidemeta: true
 ---
 
-<img src="/zine_printed.jpg" alt="Photo of example of self-printed zine on bulletin board next to AF's office" style="max-width: 600px; border: 1px solid #ddd; margin: 1.5rem 0;">
+<img src="/zine_printed.png" alt="Photo of example of self-printed zine on bulletin board next to AF's office" style="max-width: 600px; border: 1px solid #ddd; margin: 1.5rem 0;">
 
 
 
