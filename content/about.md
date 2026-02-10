@@ -1,9 +1,7 @@
 ---
-title: ""
+title: "About Me"
 hidemeta: true
 ---
-
-### About Me
 
 <div style="overflow: hidden;">
     <div style="float: right; margin: 0 0 10px 10px; width: 30%;">
