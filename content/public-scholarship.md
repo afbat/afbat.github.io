@@ -16,5 +16,6 @@ hidemeta: true
 </article>
 
 <div style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border);">
+    
 <p><small><strong>Research & Funding:</strong> This public scholarship work is supported by the National Science Foundation under Grant Nos. IIS-2207834, IIS-2207835, and IIS-2207836, conducted in collaboration with researchers at Penn State, Arizona State, Colorado State, Michigan State, and Northwestern universities.</small></p>
 </div>
