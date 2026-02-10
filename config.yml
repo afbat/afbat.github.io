@@ -86,8 +86,8 @@ params:
           - name: Updates
             url: /blog/
     socialIcons:
-        - name: CV
-          url: /cv.pdf
+        #- name: CV
+        #  url: /cv.pdf
         - name: Email
           url: mailto:afbat@northwestern.edu
         #- name: Location
