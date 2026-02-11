@@ -8,7 +8,7 @@ hidemeta: true
 
 <strong>Work in Progress (Many captions forthcoming) </strong>
 
-These photographs document fieldwork in Michigan's Upper Peninsula spanning over a decade. Earlier photos (2013-2017) were captured digitally during initial explorations of the region that informed my research interests. Formal dissertation fieldwork (2022-2024) focused on rural information ecosystems and was documented on film using a Nikon F2 with Kodak Ektar 100, supplemented by digital documentation with an iPhone for field notes and rapid capture.
+This collection documents fieldwork in Michigan's Upper Peninsula spanning over a decade. Earlier photos (2013-2017) were captured digitally during initial explorations of the region that informed my research interests. Formal dissertation fieldwork (2022-2024) focused on rural information ecosystems and was documented on film using a Nikon F2 with Kodak Ektar 100, supplemented by digital documentation with an iPhone for field notes and rapid capture.
 
 
 
@@ -57,13 +57,6 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
   </figcaption>
 </figure>
 
-<figure>
-  <img src="/fieldwork/da_camp_cafe.jpg" alt="Out of season cafe" style="width: 100%; height: auto;">
-  <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong></strong><br>
-    
-  </figcaption>
-</figure>
 
 </div>
 
@@ -339,7 +332,21 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
   </figcaption>
 </figure>
 
+<figure>
+  <img src="/fieldwork/map_problems.jpg" alt="" style="width: 100%; height: auto;">
+  <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
+    <strong></strong><br>
+    
+  </figcaption>
+</figure>
 
+<figure>
+  <img src="/fieldwork/point_road.jpg" alt="" style="width: 100%; height: auto;">
+  <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
+    <strong></strong><br>
+    
+  </figcaption>
+</figure>
 
 </div>
 
