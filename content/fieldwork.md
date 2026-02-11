@@ -57,11 +57,19 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
   </figcaption>
 </figure>
 
+<figure>
+  <img src="/fieldwork/da_camp_cafe.jpg" alt="Out of season cafe" style="width: 100%; height: auto;">
+  <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
+    <strong></strong><br>
+    
+  </figcaption>
+</figure>
+
 </div>
 
 ---
 
-### Mining Heritage
+### Industrial Heritage
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 2rem 0;">
 
@@ -74,10 +82,10 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
 </figure>
 
 <figure>
-  <img src="/fieldwork/quincy mine (1 of 1).jpg" alt="Quincy mine" style="width: 100%; height: auto;">
+  <img src="/fieldwork/whitepine.jpg" alt="White Pine mine" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong></strong><br>
-    
+    <strong>White Pine, Carp Lake Township</strong><br>
+    White Pine's mothballed site embodies the complex legacy of extraction—environmental costs, yet also symbolizes persistent hope that industry might return, reflecting a conflicted relationship with extractive past and economic future.
   </figcaption>
 </figure>
 
@@ -105,11 +113,12 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
   </figcaption>
 </figure>
 
+
 <figure>
-  <img src="/fieldwork/whitepine.jpg" alt="White Pine mine" style="width: 100%; height: auto;">
+  <img src="/fieldwork/ore_dock.jpg" alt="Marquette Ore Dock" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>White Pine, Carp Lake Township</strong><br>
-    White Pine's mothballed site embodies the complex legacy of extraction—environmental costs, yet also symbolizes persistent hope that industry might return, reflecting a conflicted relationship with extractive past and economic future.
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
@@ -125,7 +134,6 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
   <img src="/fieldwork/willie_coop.jpg" alt="Willie Wirehand cooperative" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
     <strong>Rural Electric Cooperative, DeTour Township</strong><br>
-    Willie Wirehand, mascot of rural electric cooperatives, symbolizes rural communities' capacity for self-determination in infrastructure—electric cooperatives challenged the company-controlled systems that historically determined access to power and information.
   </figcaption>
 </figure>
 
@@ -137,19 +145,21 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
   </figcaption>
 </figure>
 
+
 <figure>
-  <img src="/fieldwork/cci.JPG" alt="CCI" style="width: 100%; height: auto;">
+  <img src="/fieldwork/crisp_point.jpg" alt="Crisp Point" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
     <strong></strong><br>
     
   </figcaption>
 </figure>
 
+
 <figure>
-  <img src="/fieldwork/alberta.JPG" alt="Ford Center at Alberta" style="width: 100%; height: auto;">
+  <img src="/fieldwork/life_saving_station.jpg" alt="Life Saving Station" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>Alberta, Baraga County</strong><br>
-    Alberta demonstrates Ford's benevolent paternalism—a company town providing worker housing and sawmill employment while ensuring corporate control over timber supply chains and workforce dependency. Donated to Michigan Tech in 1954, now the Ford Center.
+    <strong></strong><br>
+    
   </figcaption>
 </figure>
 
@@ -160,6 +170,23 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
     Residents often improvise with the resources available. In this photo, the homeowner has made use of older antenna infrastructure by attaching equipment for satellite internet.
   </figcaption>
 </figure>
+
+
+<figure>
+  <img src="/fieldwork/911phone.jpg" alt="Emergency Phone" style="width: 100%; height: auto;">
+  <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
+    <strong>Emergency Phone in Area with No Cell Service</strong><br>
+  </figcaption>
+</figure>
+
+
+<figure>
+  <img src="/fieldwork/abandoned_payphone.jpg" alt="Abandoned Phone" style="width: 100%; height: auto;">
+  <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
+    <strong>Disconnected Pay Phone in Area with No Cell Service</strong><br>
+  </figcaption>
+</figure>
+
 
 </div>
 
@@ -178,17 +205,9 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
 </figure>
 
 <figure>
-  <img src="/fieldwork/crisp_point.jpg" alt="Crisp Point" style="width: 100%; height: auto;">
-  <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>Crisp Point</strong><br>
-    
-  </figcaption>
-</figure>
-
-<figure>
   <img src="/fieldwork/muskeg.jpg" alt="Muskeg landscape" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong></strong><br>
+    <strong>Muskeg</strong><br>
     
   </figcaption>
 </figure>
@@ -196,7 +215,7 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
 <figure>
   <img src="/fieldwork/alvar.jpg" alt="Alvar ecosystem" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong></strong><br>
+    <strong>Alvar</strong><br>
     
   </figcaption>
 </figure>
@@ -204,8 +223,6 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
 <figure>
   <img src="/fieldwork/eup_farm.jpg" alt="EUP farm" style="width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>Agricultural Variability, Chippewa County</strong><br>
-    The patchwork of active and abandoned EUP farmsteads reveals agricultural variability across the region—success depends on understanding local soil conditions, drainage, and climate factors that change significantly even within counties and municipalities, requiring place-specific environmental knowledge.
   </figcaption>
 </figure>
 
@@ -296,29 +313,7 @@ These photographs document fieldwork in Michigan's Upper Peninsula spanning over
   </figcaption>
 </figure>
 
-<figure>
-  <img src="/fieldwork/yooper_god.jpg" alt="Yooper identity sign" style="width: 100%; height: auto;">
-  <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>Regional Pride, Huronia</strong><br>
-    Regional identity displays like 'American by Choice, Yooper by da Grace of God' as displays of regional identity.
-  </figcaption>
-</figure>
 
-<figure>
-  <img src="/fieldwork/Hiawatha No. 1 (1 of 1).jpg" alt="Hiawatha train" style="width: 100%; height: auto;">
-  <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong></strong><br>
-    
-  </figcaption>
-</figure>
-
-<figure>
-  <img src="/fieldwork/f2.jpg" alt="Mackinac Bridge" style="width: 100%; height: auto;">
-  <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #5C4A7D;">
-    <strong>Mackinac Bridge as Boundary</strong><br>
-    A former resident shared how the Mackinac Bridge is a symbol of what separates home from not-home, as well as many of the experiences that feel tied to the UP, such as the northern lights.
-  </figcaption>
-</figure>
 
 </div>
 
